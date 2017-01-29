@@ -1,0 +1,15 @@
+{
+  "drugs": [],
+  "status": {
+    "messages": [
+      {
+        "code": "1000",
+        "name": "SUCCESS",
+        "severity": "INFO",
+        "description": "Successful service call",
+        "transactionId": "1485537132579"
+      }
+    ]
+  },
+  "totalresults": 0
+}
