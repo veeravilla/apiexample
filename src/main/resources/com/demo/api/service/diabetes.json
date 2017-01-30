@@ -1,0 +1,1158 @@
+{
+  "termSearchGroup": [
+    {
+      "node": [
+        {
+          "code": "P70.2",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/P70.2"
+        }
+      ],
+      "code": "P70",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/P70"
+    },
+    {
+      "node": [
+        {
+          "code": "Z83.3",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Z83.3"
+        }
+      ],
+      "code": "Z83",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/Z83"
+    },
+    {
+      "node": [
+        {
+          "code": "Z13.1",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Z13.1"
+        }
+      ],
+      "code": "Z13",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/Z13"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "O24.92",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.92"
+            },
+            {
+              "code": "O24.93",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.93"
+            },
+            {
+              "node": [
+                {
+                  "code": "O24.912",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/O24.912"
+                },
+                {
+                  "code": "O24.913",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/O24.913"
+                },
+                {
+                  "code": "O24.919",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/O24.919"
+                }
+              ],
+              "code": "O24.91",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.91"
+            }
+          ],
+          "code": "O24.9",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/O24.9"
+        },
+        {
+          "node": [
+            {
+              "code": "O24.12",
+              "serviceDate": "10/01/2016",
+              "status": "Changed",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.12"
+            },
+            {
+              "code": "O24.11",
+              "serviceDate": "10/01/2016",
+              "status": "Changed",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.11"
+            },
+            {
+              "code": "O24.13",
+              "serviceDate": "10/01/2016",
+              "status": "Changed",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.13"
+            }
+          ],
+          "code": "O24.1",
+          "serviceDate": "10/01/2016",
+          "status": "Changed",
+          "hrefBeg": "/ws/codetype/icd10cm/O24.1"
+        },
+        {
+          "node": [
+            {
+              "code": "O24.41",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.41"
+            },
+            {
+              "code": "O24.42",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.42"
+            },
+            {
+              "code": "O24.43",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.43"
+            }
+          ],
+          "code": "O24.4",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/O24.4"
+        },
+        {
+          "node": [
+            {
+              "code": "O24.82",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.82"
+            },
+            {
+              "node": [
+                {
+                  "code": "O24.812",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/O24.812"
+                }
+              ],
+              "code": "O24.81",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.81"
+            }
+          ],
+          "code": "O24.8",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/O24.8"
+        },
+        {
+          "node": [
+            {
+              "node": [
+                {
+                  "code": "O24.013",
+                  "serviceDate": "10/01/2016",
+                  "status": "Changed",
+                  "hrefBeg": "/ws/codetype/icd10cm/O24.013"
+                }
+              ],
+              "code": "O24.01",
+              "serviceDate": "10/01/2016",
+              "status": "Changed",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.01"
+            },
+            {
+              "code": "O24.03",
+              "serviceDate": "10/01/2016",
+              "status": "Changed",
+              "hrefBeg": "/ws/codetype/icd10cm/O24.03"
+            }
+          ],
+          "code": "O24.0",
+          "serviceDate": "10/01/2016",
+          "status": "Changed",
+          "hrefBeg": "/ws/codetype/icd10cm/O24.0"
+        }
+      ],
+      "code": "O24",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/O24"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "E08.01",
+              "hcc": "HCC17",
+              "hccDesc": "Diabetes with Acute Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.01"
+            },
+            {
+              "code": "E08.00",
+              "hcc": "HCC17",
+              "hccDesc": "Diabetes with Acute Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.00"
+            }
+          ],
+          "code": "E08.0",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E08.0"
+        },
+        {
+          "node": [
+            {
+              "code": "E08.65",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.65"
+            },
+            {
+              "node": [
+                {
+                  "code": "E08.621",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E08.621"
+                },
+                {
+                  "code": "E08.620",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E08.620"
+                },
+                {
+                  "code": "E08.628",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E08.628"
+                },
+                {
+                  "code": "E08.622",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E08.622"
+                }
+              ],
+              "code": "E08.62",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.62"
+            },
+            {
+              "node": [
+                {
+                  "code": "E08.630",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E08.630"
+                },
+                {
+                  "code": "E08.638",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E08.638"
+                }
+              ],
+              "code": "E08.63",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.63"
+            },
+            {
+              "node": [
+                {
+                  "code": "E08.618",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E08.618"
+                }
+              ],
+              "code": "E08.61",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.61"
+            },
+            {
+              "node": [
+                {
+                  "code": "E08.649",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E08.649"
+                }
+              ],
+              "code": "E08.64",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.64"
+            }
+          ],
+          "code": "E08.6",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E08.6"
+        },
+        {
+          "node": [
+            {
+              "code": "E08.10",
+              "hcc": "HCC17",
+              "hccDesc": "Diabetes with Acute Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.10"
+            },
+            {
+              "code": "E08.11",
+              "hcc": "HCC17",
+              "hccDesc": "Diabetes with Acute Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.11"
+            }
+          ],
+          "code": "E08.1",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E08.1"
+        },
+        {
+          "node": [
+            {
+              "code": "E08.21",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.21"
+            },
+            {
+              "code": "E08.22",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.22"
+            },
+            {
+              "code": "E08.29",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.29"
+            }
+          ],
+          "code": "E08.2",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E08.2"
+        },
+        {
+          "node": [
+            {
+              "node": [
+                {
+                  "code": "E08.311",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E08.311"
+                },
+                {
+                  "code": "E08.319",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E08.319"
+                }
+              ],
+              "code": "E08.31",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.31"
+            },
+            {
+              "node": [
+                {
+                  "node": [
+                    {
+                      "code": "E08.3211",
+                      "serviceDate": "10/01/2016",
+                      "status": "New",
+                      "hrefBeg": "/ws/codetype/icd10cm/E08.3211"
+                    }
+                  ],
+                  "code": "E08.321",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2016",
+                  "status": "Changed",
+                  "hrefBeg": "/ws/codetype/icd10cm/E08.321"
+                }
+              ],
+              "code": "E08.32",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E08.32"
+            }
+          ],
+          "code": "E08.3",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E08.3"
+        }
+      ],
+      "code": "E08",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/E08"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "E10.65",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.65"
+            },
+            {
+              "code": "E10.64",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.64"
+            },
+            {
+              "node": [
+                {
+                  "code": "E10.621",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E10.621"
+                },
+                {
+                  "code": "E10.622",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E10.622"
+                },
+                {
+                  "code": "E10.620",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E10.620"
+                }
+              ],
+              "code": "E10.62",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.62"
+            },
+            {
+              "node": [
+                {
+                  "code": "E10.630",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E10.630"
+                }
+              ],
+              "code": "E10.63",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.63"
+            }
+          ],
+          "code": "E10.6",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E10.6"
+        },
+        {
+          "node": [
+            {
+              "code": "E10.10",
+              "hcc": "HCC17",
+              "hccDesc": "Diabetes with Acute Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.10"
+            }
+          ],
+          "code": "E10.1",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E10.1"
+        },
+        {
+          "node": [
+            {
+              "code": "E10.29",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.29"
+            },
+            {
+              "code": "E10.22",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.22"
+            },
+            {
+              "code": "E10.21",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.21"
+            }
+          ],
+          "code": "E10.2",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E10.2"
+        },
+        {
+          "node": [
+            {
+              "node": [
+                {
+                  "node": [
+                    {
+                      "code": "E10.3513",
+                      "serviceDate": "10/01/2016",
+                      "status": "New",
+                      "hrefBeg": "/ws/codetype/icd10cm/E10.3513"
+                    }
+                  ],
+                  "code": "E10.351",
+                  "hcc": "HCC18,HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications,Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2016",
+                  "status": "Changed",
+                  "hrefBeg": "/ws/codetype/icd10cm/E10.351"
+                }
+              ],
+              "code": "E10.35",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.35"
+            },
+            {
+              "code": "E10.36",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.36"
+            }
+          ],
+          "code": "E10.3",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E10.3"
+        },
+        {
+          "node": [
+            {
+              "code": "E10.41",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.41"
+            },
+            {
+              "code": "E10.44",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E10.44"
+            }
+          ],
+          "code": "E10.4",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E10.4"
+        },
+        {
+          "code": "E10.8",
+          "hcc": "HCC18",
+          "hccDesc": "Diabetes with Chronic Complications",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E10.8"
+        },
+        {
+          "code": "E10.9",
+          "hcc": "HCC19",
+          "hccDesc": "Diabetes without Complication",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E10.9"
+        }
+      ],
+      "code": "E10",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/E10"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "E11.65",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E11.65"
+            },
+            {
+              "code": "E11.69",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E11.69"
+            },
+            {
+              "code": "E11.64",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E11.64"
+            },
+            {
+              "node": [
+                {
+                  "code": "E11.621",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E11.621"
+                },
+                {
+                  "code": "E11.622",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E11.622"
+                },
+                {
+                  "code": "E11.620",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E11.620"
+                }
+              ],
+              "code": "E11.62",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E11.62"
+            },
+            {
+              "node": [
+                {
+                  "code": "E11.630",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E11.630"
+                }
+              ],
+              "code": "E11.63",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E11.63"
+            }
+          ],
+          "code": "E11.6",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E11.6"
+        },
+        {
+          "node": [
+            {
+              "code": "E11.21",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E11.21"
+            }
+          ],
+          "code": "E11.2",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E11.2"
+        },
+        {
+          "node": [
+            {
+              "node": [
+                {
+                  "node": [
+                    {
+                      "code": "E11.3513",
+                      "serviceDate": "10/01/2016",
+                      "status": "New",
+                      "hrefBeg": "/ws/codetype/icd10cm/E11.3513"
+                    }
+                  ],
+                  "code": "E11.351",
+                  "hcc": "HCC18,HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications,Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2016",
+                  "status": "Changed",
+                  "hrefBeg": "/ws/codetype/icd10cm/E11.351"
+                }
+              ],
+              "code": "E11.35",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E11.35"
+            },
+            {
+              "code": "E11.36",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E11.36"
+            }
+          ],
+          "code": "E11.3",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E11.3"
+        },
+        {
+          "code": "E11.0",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E11.0"
+        },
+        {
+          "code": "E11.9",
+          "hcc": "HCC19",
+          "hccDesc": "Diabetes without Complication",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E11.9"
+        },
+        {
+          "node": [
+            {
+              "code": "E11.44",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E11.44"
+            },
+            {
+              "code": "E11.41",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E11.41"
+            },
+            {
+              "code": "E11.42",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E11.42"
+            }
+          ],
+          "code": "E11.4",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E11.4"
+        },
+        {
+          "code": "E11.8",
+          "hcc": "HCC18",
+          "hccDesc": "Diabetes with Chronic Complications",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E11.8"
+        }
+      ],
+      "code": "E11",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/E11"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "E09.10",
+              "hcc": "HCC17",
+              "hccDesc": "Diabetes with Acute Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E09.10"
+            }
+          ],
+          "code": "E09.1",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E09.1"
+        },
+        {
+          "node": [
+            {
+              "code": "E09.01",
+              "hcc": "HCC17",
+              "hccDesc": "Diabetes with Acute Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E09.01"
+            }
+          ],
+          "code": "E09.0",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E09.0"
+        },
+        {
+          "node": [
+            {
+              "code": "E09.21",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E09.21"
+            },
+            {
+              "code": "E09.22",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E09.22"
+            },
+            {
+              "code": "E09.29",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E09.29"
+            }
+          ],
+          "code": "E09.2",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E09.2"
+        }
+      ],
+      "code": "E09",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/E09"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "E13.10",
+              "hcc": "HCC17",
+              "hccDesc": "Diabetes with Acute Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.10"
+            },
+            {
+              "code": "E13.11",
+              "hcc": "HCC17",
+              "hccDesc": "Diabetes with Acute Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.11"
+            }
+          ],
+          "code": "E13.1",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E13.1"
+        },
+        {
+          "node": [
+            {
+              "code": "E13.36",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.36"
+            }
+          ],
+          "code": "E13.3",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E13.3"
+        },
+        {
+          "node": [
+            {
+              "code": "E13.65",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.65"
+            },
+            {
+              "code": "E13.61",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.61"
+            },
+            {
+              "code": "E13.64",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.64"
+            },
+            {
+              "node": [
+                {
+                  "code": "E13.621",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E13.621"
+                },
+                {
+                  "code": "E13.620",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E13.620"
+                }
+              ],
+              "code": "E13.62",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.62"
+            },
+            {
+              "node": [
+                {
+                  "code": "E13.630",
+                  "hcc": "HCC18",
+                  "hccDesc": "Diabetes with Chronic Complications",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/E13.630"
+                }
+              ],
+              "code": "E13.63",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.63"
+            }
+          ],
+          "code": "E13.6",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E13.6"
+        },
+        {
+          "node": [
+            {
+              "code": "E13.01",
+              "hcc": "HCC17",
+              "hccDesc": "Diabetes with Acute Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.01"
+            }
+          ],
+          "code": "E13.0",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E13.0"
+        },
+        {
+          "node": [
+            {
+              "code": "E13.21",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.21"
+            }
+          ],
+          "code": "E13.2",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E13.2"
+        },
+        {
+          "node": [
+            {
+              "code": "E13.59",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.59"
+            }
+          ],
+          "code": "E13.5",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E13.5"
+        },
+        {
+          "node": [
+            {
+              "code": "E13.44",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.44"
+            },
+            {
+              "code": "E13.41",
+              "hcc": "HCC18",
+              "hccDesc": "Diabetes with Chronic Complications",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/E13.41"
+            }
+          ],
+          "code": "E13.4",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E13.4"
+        },
+        {
+          "code": "E13.9",
+          "hcc": "HCC19",
+          "hccDesc": "Diabetes without Complication",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E13.9"
+        },
+        {
+          "code": "E13.8",
+          "hcc": "HCC18",
+          "hccDesc": "Diabetes with Chronic Complications",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E13.8"
+        }
+      ],
+      "code": "E13",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/E13"
+    },
+    {
+      "node": [
+        {
+          "code": "E23.2",
+          "hcc": "HCC23",
+          "hccDesc": "Other Significant Endocrine and Metabolic Disorders",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/E23.2"
+        }
+      ],
+      "code": "E23",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/E23"
+    }
+  ]
+}

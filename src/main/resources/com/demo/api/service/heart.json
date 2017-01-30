@@ -1,0 +1,1026 @@
+{
+  "termSearchGroup": [
+    {
+      "node": [
+        {
+          "code": "I11.0",
+          "hcc": "HCC85",
+          "hccDesc": "Congestive Heart Failure",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I11.0"
+        },
+        {
+          "code": "I11.9",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I11.9"
+        }
+      ],
+      "code": "I11",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I11"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "T86.22",
+              "hcc": "HCC186",
+              "hccDesc": "Major Organ Transplant or Replacement Status",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T86.22"
+            },
+            {
+              "code": "T86.20",
+              "hcc": "HCC186",
+              "hccDesc": "Major Organ Transplant or Replacement Status",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T86.20"
+            },
+            {
+              "node": [
+                {
+                  "code": "T86.298",
+                  "hcc": "HCC186",
+                  "hccDesc": "Major Organ Transplant or Replacement Status",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/T86.298"
+                }
+              ],
+              "code": "T86.29",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T86.29"
+            },
+            {
+              "code": "T86.21",
+              "hcc": "HCC186",
+              "hccDesc": "Major Organ Transplant or Replacement Status",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T86.21"
+            },
+            {
+              "code": "T86.23",
+              "hcc": "HCC186",
+              "hccDesc": "Major Organ Transplant or Replacement Status",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T86.23"
+            }
+          ],
+          "code": "T86.2",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/T86.2"
+        },
+        {
+          "node": [
+            {
+              "code": "T86.32",
+              "hcc": "HCC186",
+              "hccDesc": "Major Organ Transplant or Replacement Status",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T86.32"
+            },
+            {
+              "code": "T86.30",
+              "hcc": "HCC186",
+              "hccDesc": "Major Organ Transplant or Replacement Status",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T86.30"
+            },
+            {
+              "code": "T86.31",
+              "hcc": "HCC186",
+              "hccDesc": "Major Organ Transplant or Replacement Status",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T86.31"
+            },
+            {
+              "code": "T86.33",
+              "hcc": "HCC186",
+              "hccDesc": "Major Organ Transplant or Replacement Status",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T86.33"
+            }
+          ],
+          "code": "T86.3",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/T86.3"
+        }
+      ],
+      "code": "T86",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/T86"
+    },
+    {
+      "node": [
+        {
+          "code": "C38.0",
+          "hcc": "HCC11",
+          "hccDesc": "Colorectal, Bladder, and Other Cancers",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/C38.0"
+        },
+        {
+          "code": "C38.8",
+          "hcc": "HCC11",
+          "hccDesc": "Colorectal, Bladder, and Other Cancers",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/C38.8"
+        }
+      ],
+      "code": "C38",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/C38"
+    },
+    {
+      "node": [
+        {
+          "code": "Z94.1",
+          "hcc": "HCC186",
+          "hccDesc": "Major Organ Transplant or Replacement Status",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Z94.1"
+        },
+        {
+          "code": "Z94.3",
+          "hcc": "HCC186",
+          "hccDesc": "Major Organ Transplant or Replacement Status",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Z94.3"
+        }
+      ],
+      "code": "Z94",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/Z94"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "I50.20",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I50.20"
+            },
+            {
+              "code": "I50.21",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I50.21"
+            },
+            {
+              "code": "I50.22",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I50.22"
+            },
+            {
+              "code": "I50.23",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I50.23"
+            }
+          ],
+          "code": "I50.2",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I50.2"
+        },
+        {
+          "node": [
+            {
+              "code": "I50.30",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I50.30"
+            },
+            {
+              "code": "I50.31",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I50.31"
+            },
+            {
+              "code": "I50.32",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I50.32"
+            },
+            {
+              "code": "I50.33",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I50.33"
+            }
+          ],
+          "code": "I50.3",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I50.3"
+        },
+        {
+          "code": "I50.9",
+          "hcc": "HCC85",
+          "hccDesc": "Congestive Heart Failure",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I50.9"
+        },
+        {
+          "node": [
+            {
+              "code": "I50.40",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I50.40"
+            },
+            {
+              "code": "I50.42",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I50.42"
+            },
+            {
+              "code": "I50.43",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I50.43"
+            }
+          ],
+          "code": "I50.4",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I50.4"
+        }
+      ],
+      "code": "I50",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I50"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "Z48.21",
+              "hcc": "HCC186",
+              "hccDesc": "Major Organ Transplant or Replacement Status",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/Z48.21"
+            },
+            {
+              "node": [
+                {
+                  "code": "Z48.280",
+                  "hcc": "HCC186",
+                  "hccDesc": "Major Organ Transplant or Replacement Status",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/Z48.280"
+                }
+              ],
+              "code": "Z48.28",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/Z48.28"
+            }
+          ],
+          "code": "Z48.2",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Z48.2"
+        }
+      ],
+      "code": "Z48",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/Z48"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "A18.84",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/A18.84"
+            }
+          ],
+          "code": "A18.8",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/A18.8"
+        }
+      ],
+      "code": "A18",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/A18"
+    },
+    {
+      "node": [
+        {
+          "code": "I25.3",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I25.3"
+        },
+        {
+          "code": "I25.9",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I25.9"
+        }
+      ],
+      "code": "I25",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I25"
+    },
+    {
+      "node": [
+        {
+          "code": "Q22.6",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Q22.6"
+        }
+      ],
+      "code": "Q22",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/Q22"
+    },
+    {
+      "node": [
+        {
+          "code": "Q23.4",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Q23.4"
+        }
+      ],
+      "code": "Q23",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/Q23"
+    },
+    {
+      "node": [
+        {
+          "code": "I02.0",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I02.0"
+        }
+      ],
+      "code": "I02",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I02"
+    },
+    {
+      "node": [
+        {
+          "code": "I51.9",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I51.9"
+        },
+        {
+          "node": [
+            {
+              "code": "I51.89",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I51.89"
+            }
+          ],
+          "code": "I51.8",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I51.8"
+        }
+      ],
+      "code": "I51",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I51"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "I09.81",
+              "hcc": "HCC85",
+              "hccDesc": "Congestive Heart Failure",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I09.81"
+            }
+          ],
+          "code": "I09.8",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I09.8"
+        },
+        {
+          "code": "I09.9",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I09.9"
+        }
+      ],
+      "code": "I09",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I09"
+    },
+    {
+      "node": [
+        {
+          "code": "Z95.3",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Z95.3"
+        },
+        {
+          "code": "Z95.2",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Z95.2"
+        },
+        {
+          "code": "Z95.4",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Z95.4"
+        },
+        {
+          "node": [
+            {
+              "node": [
+                {
+                  "code": "Z95.811",
+                  "hcc": "HCC186",
+                  "hccDesc": "Major Organ Transplant or Replacement Status",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/Z95.811"
+                },
+                {
+                  "code": "Z95.812",
+                  "hcc": "HCC186",
+                  "hccDesc": "Major Organ Transplant or Replacement Status",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/Z95.812"
+                }
+              ],
+              "code": "Z95.81",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/Z95.81"
+            }
+          ],
+          "code": "Z95.8",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Z95.8"
+        }
+      ],
+      "code": "Z95",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/Z95"
+    },
+    {
+      "node": [
+        {
+          "code": "Q24.6",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Q24.6"
+        },
+        {
+          "code": "Q24.8",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Q24.8"
+        },
+        {
+          "code": "Q24.9",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/Q24.9"
+        }
+      ],
+      "code": "Q24",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/Q24"
+    },
+    {
+      "node": [
+        {
+          "code": "D15.1",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/D15.1"
+        }
+      ],
+      "code": "D15",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/D15"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "node": [
+                {
+                  "code": "T82.01XA",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/T82.01XA"
+                }
+              ],
+              "code": "T82.01",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T82.01"
+            },
+            {
+              "node": [
+                {
+                  "code": "T82.02XA",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/T82.02XA"
+                }
+              ],
+              "code": "T82.02",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T82.02"
+            },
+            {
+              "node": [
+                {
+                  "code": "T82.03XA",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/T82.03XA"
+                }
+              ],
+              "code": "T82.03",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T82.03"
+            },
+            {
+              "node": [
+                {
+                  "code": "T82.09XA",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/T82.09XA"
+                }
+              ],
+              "code": "T82.09",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T82.09"
+            }
+          ],
+          "code": "T82.0",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/T82.0"
+        },
+        {
+          "node": [
+            {
+              "node": [
+                {
+                  "code": "T82.512",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/T82.512"
+                }
+              ],
+              "code": "T82.51",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T82.51"
+            },
+            {
+              "node": [
+                {
+                  "node": [
+                    {
+                      "code": "T82.532S",
+                      "serviceDate": "10/01/2015",
+                      "status": "New",
+                      "hrefBeg": "/ws/codetype/icd10cm/T82.532S"
+                    }
+                  ],
+                  "code": "T82.532",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/T82.532"
+                }
+              ],
+              "code": "T82.53",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T82.53"
+            },
+            {
+              "node": [
+                {
+                  "node": [
+                    {
+                      "code": "T82.522S",
+                      "serviceDate": "10/01/2015",
+                      "status": "New",
+                      "hrefBeg": "/ws/codetype/icd10cm/T82.522S"
+                    }
+                  ],
+                  "code": "T82.522",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/T82.522"
+                }
+              ],
+              "code": "T82.52",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/T82.52"
+            }
+          ],
+          "code": "T82.5",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/T82.5"
+        }
+      ],
+      "code": "T82",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/T82"
+    },
+    {
+      "code": "I52",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I52"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "node": [
+                {
+                  "code": "S26.020",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/S26.020"
+                },
+                {
+                  "code": "S26.021",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/S26.021"
+                },
+                {
+                  "code": "S26.022",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/S26.022"
+                }
+              ],
+              "code": "S26.02",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/S26.02"
+            },
+            {
+              "node": [
+                {
+                  "code": "S26.01XS",
+                  "serviceDate": "10/01/2015",
+                  "status": "New",
+                  "hrefBeg": "/ws/codetype/icd10cm/S26.01XS"
+                }
+              ],
+              "code": "S26.01",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/S26.01"
+            },
+            {
+              "code": "S26.09",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/S26.09"
+            },
+            {
+              "code": "S26.00",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/S26.00"
+            }
+          ],
+          "code": "S26.0",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/S26.0"
+        },
+        {
+          "node": [
+            {
+              "code": "S26.12",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/S26.12"
+            },
+            {
+              "code": "S26.11",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/S26.11"
+            },
+            {
+              "code": "S26.19",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/S26.19"
+            },
+            {
+              "code": "S26.10",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/S26.10"
+            }
+          ],
+          "code": "S26.1",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/S26.1"
+        }
+      ],
+      "code": "S26",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/S26"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "A52.06",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/A52.06"
+            }
+          ],
+          "code": "A52.0",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/A52.0"
+        }
+      ],
+      "code": "A52",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/A52"
+    },
+    {
+      "node": [
+        {
+          "code": "R00.9",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/R00.9"
+        },
+        {
+          "code": "R00.8",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/R00.8"
+        }
+      ],
+      "code": "R00",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/R00"
+    },
+    {
+      "node": [
+        {
+          "code": "I27.1",
+          "hcc": "HCC85",
+          "hccDesc": "Congestive Heart Failure",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I27.1"
+        },
+        {
+          "code": "I27.9",
+          "hcc": "HCC85",
+          "hccDesc": "Congestive Heart Failure",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I27.9"
+        }
+      ],
+      "code": "I27",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I27"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "I97.13",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/I97.13"
+            }
+          ],
+          "code": "I97.1",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I97.1"
+        }
+      ],
+      "code": "I97",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I97"
+    },
+    {
+      "code": "I01",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I01"
+    },
+    {
+      "node": [
+        {
+          "code": "I45.5",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I45.5"
+        }
+      ],
+      "code": "I45",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I45"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "A54.83",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/A54.83"
+            }
+          ],
+          "code": "A54.8",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/A54.8"
+        }
+      ],
+      "code": "A54",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/A54"
+    },
+    {
+      "node": [
+        {
+          "code": "A39.5",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/A39.5"
+        }
+      ],
+      "code": "A39",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/A39"
+    },
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "code": "A01.02",
+              "serviceDate": "10/01/2015",
+              "status": "New",
+              "hrefBeg": "/ws/codetype/icd10cm/A01.02"
+            }
+          ],
+          "code": "A01.0",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/A01.0"
+        }
+      ],
+      "code": "A01",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/A01"
+    },
+    {
+      "node": [
+        {
+          "code": "I13.1",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I13.1"
+        }
+      ],
+      "code": "I13",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I13"
+    },
+    {
+      "node": [
+        {
+          "code": "I24.9",
+          "hcc": "HCC87",
+          "hccDesc": "Unstable Angina and Other Acute Ischemic Heart Disease",
+          "serviceDate": "10/01/2015",
+          "status": "New",
+          "hrefBeg": "/ws/codetype/icd10cm/I24.9"
+        }
+      ],
+      "code": "I24",
+      "serviceDate": "10/01/2015",
+      "status": "New",
+      "hrefBeg": "/ws/codetype/icd10cm/I24"
+    }
+  ]
+}
