@@ -1,1304 +1,1044 @@
-{
-  "termSearchGroup": [
-    {
-      "node": [
-        {
-          "code": "I11.0",
-          "rank": 104356,
-          "desc": "Hypertensive heart disease with heart failure",
-          "hcc": "HCC85",
-          "hccDesc": "Congestive Heart Failure",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I11.0"
-        },
-        {
-          "code": "I11.9",
-          "rank": 90222,
-          "desc": "Hypertensive heart disease without heart failure",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I11.9"
-        }
-      ],
-      "code": "I11",
-      "rank": 104356,
-      "desc": "Hypertensive heart disease",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I11"
-    },
-    {
-      "node": [
-        {
-          "node": [
-            {
-              "code": "T86.22",
-              "rank": 85268,
-              "desc": "Heart transplant failure",
-              "hcc": "HCC186",
-              "hccDesc": "Major Organ Transplant or Replacement Status",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T86.22"
-            },
-            {
-              "code": "T86.20",
-              "rank": 85266,
-              "desc": "Unspecified complication of heart transplant",
-              "hcc": "HCC186",
-              "hccDesc": "Major Organ Transplant or Replacement Status",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T86.20"
-            },
-            {
-              "node": [
-                {
-                  "code": "T86.298",
-                  "rank": 85205,
-                  "desc": "Other complications of heart transplant",
-                  "hcc": "HCC186",
-                  "hccDesc": "Major Organ Transplant or Replacement Status",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/T86.298"
-                }
-              ],
-              "code": "T86.29",
-              "rank": 85205,
-              "desc": "Other complications of heart transplant",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T86.29"
-            },
-            {
-              "code": "T86.21",
-              "rank": 57540,
-              "desc": "Heart transplant rejection",
-              "hcc": "HCC186",
-              "hccDesc": "Major Organ Transplant or Replacement Status",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T86.21"
-            },
-            {
-              "code": "T86.23",
-              "rank": 57518,
-              "desc": "Heart transplant infection",
-              "hcc": "HCC186",
-              "hccDesc": "Major Organ Transplant or Replacement Status",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T86.23"
-            }
-          ],
-          "code": "T86.2",
-          "rank": 85268,
-          "desc": "Complications of heart transplant",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/T86.2"
-        },
-        {
-          "node": [
-            {
-              "code": "T86.32",
-              "rank": 56868,
-              "desc": "Heart-lung transplant failure",
-              "hcc": "HCC186",
-              "hccDesc": "Major Organ Transplant or Replacement Status",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T86.32"
-            },
-            {
-              "code": "T86.30",
-              "rank": 50146,
-              "desc": "Unspecified complication of heart-lung transplant",
-              "hcc": "HCC186",
-              "hccDesc": "Major Organ Transplant or Replacement Status",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T86.30"
-            },
-            {
-              "code": "T86.31",
-              "rank": 29709,
-              "desc": "Heart-lung transplant rejection",
-              "hcc": "HCC186",
-              "hccDesc": "Major Organ Transplant or Replacement Status",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T86.31"
-            },
-            {
-              "code": "T86.33",
-              "rank": 29706,
-              "desc": "Heart-lung transplant infection",
-              "hcc": "HCC186",
-              "hccDesc": "Major Organ Transplant or Replacement Status",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T86.33"
-            }
-          ],
-          "code": "T86.3",
-          "rank": 56868,
-          "desc": "Complications of heart-lung transplant",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/T86.3"
-        }
-      ],
-      "code": "T86",
-      "rank": 85268,
-      "desc": "Complications of transplanted organs and tissue",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/T86"
-    },
-    {
-      "node": [
-        {
-          "code": "C38.0",
-          "rank": 85099,
-          "desc": "Malignant neoplasm of heart",
-          "hcc": "HCC11",
-          "hccDesc": "Colorectal, Bladder, and Other Cancers",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/C38.0"
-        },
-        {
-          "code": "C38.8",
-          "rank": 44029,
-          "desc": "Malignant neoplasm of overlapping sites of heart, mediastinum and pleura",
-          "hcc": "HCC11",
-          "hccDesc": "Colorectal, Bladder, and Other Cancers",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/C38.8"
-        }
-      ],
-      "code": "C38",
-      "rank": 85099,
-      "desc": "Malignant neoplasm of heart, mediastinum and pleura",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/C38"
-    },
-    {
-      "node": [
-        {
-          "code": "Z94.1",
-          "rank": 84967,
-          "desc": "Heart transplant status",
-          "hcc": "HCC186",
-          "hccDesc": "Major Organ Transplant or Replacement Status",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Z94.1"
-        },
-        {
-          "code": "Z94.3",
-          "rank": 56649,
-          "desc": "Heart and lungs transplant status",
-          "hcc": "HCC186",
-          "hccDesc": "Major Organ Transplant or Replacement Status",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Z94.3"
-        }
-      ],
-      "code": "Z94",
-      "rank": 84967,
-      "desc": "Transplanted organ and tissue status",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/Z94"
-    },
-    {
-      "node": [
-        {
-          "node": [
-            {
-              "code": "I50.20",
-              "rank": 76270,
-              "desc": "Unspecified systolic (congestive) heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I50.20"
-            },
-            {
-              "code": "I50.21",
-              "rank": 76270,
-              "desc": "Acute systolic (congestive) heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I50.21"
-            },
-            {
-              "code": "I50.22",
-              "rank": 51541,
-              "desc": "Chronic systolic (congestive) heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I50.22"
-            },
-            {
-              "code": "I50.23",
-              "rank": 44821,
-              "desc": "Acute on chronic systolic (congestive) heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I50.23"
-            }
-          ],
-          "code": "I50.2",
-          "rank": 76270,
-          "desc": "Systolic (congestive) heart failure",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I50.2"
-        },
-        {
-          "node": [
-            {
-              "code": "I50.30",
-              "rank": 75854,
-              "desc": "Unspecified diastolic (congestive) heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I50.30"
-            },
-            {
-              "code": "I50.31",
-              "rank": 75854,
-              "desc": "Acute diastolic (congestive) heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I50.31"
-            },
-            {
-              "code": "I50.32",
-              "rank": 51264,
-              "desc": "Chronic diastolic (congestive) heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I50.32"
-            },
-            {
-              "code": "I50.33",
-              "rank": 44330,
-              "desc": "Acute on chronic diastolic (congestive) heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I50.33"
-            }
-          ],
-          "code": "I50.3",
-          "rank": 75854,
-          "desc": "Diastolic (congestive) heart failure",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I50.3"
-        },
-        {
-          "code": "I50.9",
-          "rank": 59163,
-          "desc": "Heart failure, unspecified",
-          "hcc": "HCC85",
-          "hccDesc": "Congestive Heart Failure",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I50.9"
-        },
-        {
-          "node": [
-            {
-              "code": "I50.40",
-              "rank": 37517,
-              "desc": "Unspecified combined systolic (congestive) and diastolic (congestive) heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I50.40"
-            },
-            {
-              "code": "I50.42",
-              "rank": 36867,
-              "desc": "Chronic combined systolic (congestive) and diastolic (congestive) heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I50.42"
-            },
-            {
-              "code": "I50.43",
-              "rank": 36842,
-              "desc": "Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I50.43"
-            }
-          ],
-          "code": "I50.4",
-          "rank": 37517,
-          "desc": "Combined systolic (congestive) and diastolic (congestive) heart failure",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I50.4"
-        }
-      ],
-      "code": "I50",
-      "rank": 76270,
-      "desc": "Heart failure",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I50"
-    },
-    {
-      "node": [
-        {
-          "node": [
-            {
-              "code": "Z48.21",
-              "rank": 74852,
-              "desc": "Encounter for aftercare following heart transplant",
-              "hcc": "HCC186",
-              "hccDesc": "Major Organ Transplant or Replacement Status",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/Z48.21"
-            },
-            {
-              "node": [
-                {
-                  "code": "Z48.280",
-                  "rank": 42964,
-                  "desc": "Encounter for aftercare following heart-lung transplant",
-                  "hcc": "HCC186",
-                  "hccDesc": "Major Organ Transplant or Replacement Status",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/Z48.280"
-                }
-              ],
-              "code": "Z48.28",
-              "rank": 42964,
-              "desc": "Encounter for aftercare following multiple organ transplant",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/Z48.28"
-            }
-          ],
-          "code": "Z48.2",
-          "rank": 74852,
-          "desc": "Encounter for aftercare following organ transplant",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Z48.2"
-        }
-      ],
-      "code": "Z48",
-      "rank": 74852,
-      "desc": "Encounter for other postprocedural aftercare",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/Z48"
-    },
-    {
-      "node": [
-        {
-          "node": [
-            {
-              "code": "A18.84",
-              "rank": 70482,
-              "desc": "Tuberculosis of heart",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/A18.84"
-            }
-          ],
-          "code": "A18.8",
-          "rank": 70482,
-          "desc": "Tuberculosis of other specified organs",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/A18.8"
-        }
-      ],
-      "code": "A18",
-      "rank": 70482,
-      "desc": "Tuberculosis of other organs",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/A18"
-    },
-    {
-      "node": [
-        {
-          "code": "I25.3",
-          "rank": 70344,
-          "desc": "Aneurysm of heart",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I25.3"
-        },
-        {
-          "code": "I25.9",
-          "rank": 26629,
-          "desc": "Chronic ischemic heart disease, unspecified",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I25.9"
-        }
-      ],
-      "code": "I25",
-      "rank": 70344,
-      "desc": "Chronic ischemic heart disease",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I25"
-    },
-    {
-      "node": [
-        {
-          "code": "Q22.6",
-          "rank": 57531,
-          "desc": "Hypoplastic right heart syndrome",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Q22.6"
-        }
-      ],
-      "code": "Q22",
-      "rank": 57531,
-      "desc": "Congenital malformations of pulmonary and tricuspid valves",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/Q22"
-    },
-    {
-      "node": [
-        {
-          "code": "Q23.4",
-          "rank": 57215,
-          "desc": "Hypoplastic left heart syndrome",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Q23.4"
-        }
-      ],
-      "code": "Q23",
-      "rank": 57215,
-      "desc": "Congenital malformations of aortic and mitral valves",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/Q23"
-    },
-    {
-      "node": [
-        {
-          "code": "I02.0",
-          "rank": 57078,
-          "desc": "Rheumatic chorea with heart involvement",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I02.0"
-        }
-      ],
-      "code": "I02",
-      "rank": 57078,
-      "desc": "Rheumatic chorea",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I02"
-    },
-    {
-      "node": [
-        {
-          "code": "I51.9",
-          "rank": 56897,
-          "desc": "Heart disease, unspecified",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I51.9"
-        },
-        {
-          "node": [
-            {
-              "code": "I51.89",
-              "rank": 26678,
-              "desc": "Other ill-defined heart diseases",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I51.89"
-            }
-          ],
-          "code": "I51.8",
-          "rank": 26678,
-          "desc": "Other ill-defined heart diseases",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I51.8"
-        }
-      ],
-      "code": "I51",
-      "rank": 56897,
-      "desc": "Complications and ill-defined descriptions of heart disease",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I51"
-    },
-    {
-      "node": [
-        {
-          "node": [
-            {
-              "code": "I09.81",
-              "rank": 56874,
-              "desc": "Rheumatic heart failure",
-              "hcc": "HCC85",
-              "hccDesc": "Congestive Heart Failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I09.81"
-            }
-          ],
-          "code": "I09.8",
-          "rank": 56874,
-          "desc": "Other specified rheumatic heart diseases",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I09.8"
-        },
-        {
-          "code": "I09.9",
-          "rank": 29675,
-          "desc": "Rheumatic heart disease, unspecified",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I09.9"
-        }
-      ],
-      "code": "I09",
-      "rank": 56874,
-      "desc": "Other rheumatic heart diseases",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I09"
-    },
-    {
-      "node": [
-        {
-          "code": "Z95.3",
-          "rank": 56867,
-          "desc": "Presence of xenogenic heart valve",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Z95.3"
-        },
-        {
-          "code": "Z95.2",
-          "rank": 56846,
-          "desc": "Presence of prosthetic heart valve",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Z95.2"
-        },
-        {
-          "code": "Z95.4",
-          "rank": 50152,
-          "desc": "Presence of other heart-valve replacement",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Z95.4"
-        },
-        {
-          "node": [
-            {
-              "node": [
-                {
-                  "code": "Z95.811",
-                  "rank": 29723,
-                  "desc": "Presence of heart assist device",
-                  "hcc": "HCC186",
-                  "hccDesc": "Major Organ Transplant or Replacement Status",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/Z95.811"
-                },
-                {
-                  "code": "Z95.812",
-                  "rank": 26351,
-                  "desc": "Presence of fully implantable artificial heart",
-                  "hcc": "HCC186",
-                  "hccDesc": "Major Organ Transplant or Replacement Status",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/Z95.812"
-                }
-              ],
-              "code": "Z95.81",
-              "rank": 29723,
-              "desc": "Presence of other cardiac implants and grafts",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/Z95.81"
-            }
-          ],
-          "code": "Z95.8",
-          "rank": 29723,
-          "desc": "Presence of other cardiac and vascular implants and grafts",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Z95.8"
-        }
-      ],
-      "code": "Z95",
-      "rank": 56867,
-      "desc": "Presence of cardiac and vascular implants and grafts",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/Z95"
-    },
-    {
-      "node": [
-        {
-          "code": "Q24.6",
-          "rank": 56839,
-          "desc": "Congenital heart block",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Q24.6"
-        },
-        {
-          "code": "Q24.8",
-          "rank": 51650,
-          "desc": "Other specified congenital malformations of heart",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Q24.8"
-        },
-        {
-          "code": "Q24.9",
-          "rank": 29722,
-          "desc": "Congenital malformation of heart, unspecified",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/Q24.9"
-        }
-      ],
-      "code": "Q24",
-      "rank": 56839,
-      "desc": "Other congenital malformations of heart",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/Q24"
-    },
-    {
-      "node": [
-        {
-          "code": "D15.1",
-          "rank": 56598,
-          "desc": "Benign neoplasm of heart",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/D15.1"
-        }
-      ],
-      "code": "D15",
-      "rank": 56598,
-      "desc": "Benign neoplasm of other and unspecified intrathoracic organs",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/D15"
-    },
-    {
-      "node": [
-        {
-          "node": [
-            {
-              "node": [
-                {
-                  "code": "T82.01XA",
-                  "rank": 43846,
-                  "desc": "Breakdown (mechanical) of heart valve prosthesis, initial encounter",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/T82.01XA"
-                }
-              ],
-              "code": "T82.01",
-              "rank": 43846,
-              "desc": "Breakdown (mechanical) of heart valve prosthesis",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T82.01"
-            },
-            {
-              "node": [
-                {
-                  "code": "T82.02XA",
-                  "rank": 43846,
-                  "desc": "Displacement of heart valve prosthesis, initial encounter",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/T82.02XA"
-                }
-              ],
-              "code": "T82.02",
-              "rank": 43846,
-              "desc": "Displacement of heart valve prosthesis",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T82.02"
-            },
-            {
-              "node": [
-                {
-                  "code": "T82.03XA",
-                  "rank": 43846,
-                  "desc": "Leakage of heart valve prosthesis, initial encounter",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/T82.03XA"
-                }
-              ],
-              "code": "T82.03",
-              "rank": 43846,
-              "desc": "Leakage of heart valve prosthesis",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T82.03"
-            },
-            {
-              "node": [
-                {
-                  "code": "T82.09XA",
-                  "rank": 36897,
-                  "desc": "Other mechanical complication of heart valve prosthesis, initial encounter",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/T82.09XA"
-                }
-              ],
-              "code": "T82.09",
-              "rank": 36897,
-              "desc": "Other mechanical complication of heart valve prosthesis",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T82.09"
-            }
-          ],
-          "code": "T82.0",
-          "rank": 43846,
-          "desc": "Mechanical complication of heart valve prosthesis",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/T82.0"
-        },
-        {
-          "node": [
-            {
-              "node": [
-                {
-                  "code": "T82.512",
-                  "rank": 29704,
-                  "desc": "Breakdown (mechanical) of artificial heart",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/T82.512"
-                }
-              ],
-              "code": "T82.51",
-              "rank": 29704,
-              "desc": "Breakdown (mechanical) of other cardiac and vascular devices and implants",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T82.51"
-            },
-            {
-              "node": [
-                {
-                  "node": [
-                    {
-                      "code": "T82.532S",
-                      "rank": 29551,
-                      "desc": "Leakage of artificial heart, sequela",
-                      "serviceDate": "10/01/2015",
-                      "status": "New",
-                      "hrefBeg": "/ws/codetype/icd10cm/T82.532S"
-                    }
-                  ],
-                  "code": "T82.532",
-                  "rank": 29704,
-                  "desc": "Leakage of artificial heart",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/T82.532"
-                }
-              ],
-              "code": "T82.53",
-              "rank": 29704,
-              "desc": "Leakage of other cardiac and vascular devices and implants",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T82.53"
-            },
-            {
-              "node": [
-                {
-                  "node": [
-                    {
-                      "code": "T82.522S",
-                      "rank": 29551,
-                      "desc": "Displacement of artificial heart, sequela",
-                      "serviceDate": "10/01/2015",
-                      "status": "New",
-                      "hrefBeg": "/ws/codetype/icd10cm/T82.522S"
-                    }
-                  ],
-                  "code": "T82.522",
-                  "rank": 29701,
-                  "desc": "Displacement of artificial heart",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/T82.522"
-                }
-              ],
-              "code": "T82.52",
-              "rank": 29701,
-              "desc": "Displacement of other cardiac and vascular devices and implants",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/T82.52"
-            }
-          ],
-          "code": "T82.5",
-          "rank": 29704,
-          "desc": "Mechanical complication of other cardiac and vascular devices and implants",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/T82.5"
-        }
-      ],
-      "code": "T82",
-      "rank": 43846,
-      "desc": "Complications of cardiac and vascular prosthetic devices, implants and grafts",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/T82"
-    },
-    {
-      "code": "I52",
-      "rank": 43390,
-      "desc": "Other heart disorders in diseases classified elsewhere",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I52"
-    },
-    {
-      "node": [
-        {
-          "node": [
-            {
-              "node": [
-                {
-                  "code": "S26.020",
-                  "rank": 29710,
-                  "desc": "Mild laceration of heart with hemopericardium",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/S26.020"
-                },
-                {
-                  "code": "S26.021",
-                  "rank": 29684,
-                  "desc": "Moderate laceration of heart with hemopericardium",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/S26.021"
-                },
-                {
-                  "code": "S26.022",
-                  "rank": 29684,
-                  "desc": "Major laceration of heart with hemopericardium",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/S26.022"
-                }
-              ],
-              "code": "S26.02",
-              "rank": 29710,
-              "desc": "Laceration of heart with hemopericardium",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/S26.02"
-            },
-            {
-              "node": [
-                {
-                  "code": "S26.01XS",
-                  "rank": 29555,
-                  "desc": "Contusion of heart with hemopericardium, sequela",
-                  "serviceDate": "10/01/2015",
-                  "status": "New",
-                  "hrefBeg": "/ws/codetype/icd10cm/S26.01XS"
-                }
-              ],
-              "code": "S26.01",
-              "rank": 29699,
-              "desc": "Contusion of heart with hemopericardium",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/S26.01"
-            },
-            {
-              "code": "S26.09",
-              "rank": 29690,
-              "desc": "Other injury of heart with hemopericardium",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/S26.09"
-            },
-            {
-              "code": "S26.00",
-              "rank": 29683,
-              "desc": "Unspecified injury of heart with hemopericardium",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/S26.00"
-            }
-          ],
-          "code": "S26.0",
-          "rank": 29710,
-          "desc": "Injury of heart with hemopericardium",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/S26.0"
-        },
-        {
-          "node": [
-            {
-              "code": "S26.12",
-              "rank": 29699,
-              "desc": "Laceration of heart without hemopericardium",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/S26.12"
-            },
-            {
-              "code": "S26.11",
-              "rank": 29683,
-              "desc": "Contusion of heart without hemopericardium",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/S26.11"
-            },
-            {
-              "code": "S26.19",
-              "rank": 26364,
-              "desc": "Other injury of heart without hemopericardium",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/S26.19"
-            },
-            {
-              "code": "S26.10",
-              "rank": 26358,
-              "desc": "Unspecified injury of heart without hemopericardium",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/S26.10"
-            }
-          ],
-          "code": "S26.1",
-          "rank": 29699,
-          "desc": "Injury of heart without hemopericardium",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/S26.1"
-        }
-      ],
-      "code": "S26",
-      "rank": 36160,
-      "desc": "Injury of heart",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/S26"
-    },
-    {
-      "node": [
-        {
-          "node": [
-            {
-              "code": "A52.06",
-              "rank": 29902,
-              "desc": "Other syphilitic heart involvement",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/A52.06"
-            }
-          ],
-          "code": "A52.0",
-          "rank": 29902,
-          "desc": "Cardiovascular and cerebrovascular syphilis",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/A52.0"
-        }
-      ],
-      "code": "A52",
-      "rank": 29902,
-      "desc": "Late syphilis",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/A52"
-    },
-    {
-      "node": [
-        {
-          "code": "R00.9",
-          "rank": 29717,
-          "desc": "Unspecified abnormalities of heart beat",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/R00.9"
-        },
-        {
-          "code": "R00.8",
-          "rank": 29696,
-          "desc": "Other abnormalities of heart beat",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/R00.8"
-        }
-      ],
-      "code": "R00",
-      "rank": 29717,
-      "desc": "Abnormalities of heart beat",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/R00"
-    },
-    {
-      "node": [
-        {
-          "code": "I27.1",
-          "rank": 29716,
-          "desc": "Kyphoscoliotic heart disease",
-          "hcc": "HCC85",
-          "hccDesc": "Congestive Heart Failure",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I27.1"
-        },
-        {
-          "code": "I27.9",
-          "rank": 29665,
-          "desc": "Pulmonary heart disease, unspecified",
-          "hcc": "HCC85",
-          "hccDesc": "Congestive Heart Failure",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I27.9"
-        }
-      ],
-      "code": "I27",
-      "rank": 29716,
-      "desc": "Other pulmonary heart diseases",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I27"
-    },
-    {
-      "node": [
-        {
-          "node": [
-            {
-              "code": "I97.13",
-              "rank": 29707,
-              "desc": "Postprocedural heart failure",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/I97.13"
-            }
-          ],
-          "code": "I97.1",
-          "rank": 29707,
-          "desc": "Other postprocedural cardiac functional disturbances",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I97.1"
-        }
-      ],
-      "code": "I97",
-      "rank": 29707,
-      "desc": "Intraoperative and postprocedural complications and disorders of circulatory system, not elsewhere classified",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I97"
-    },
-    {
-      "code": "I01",
-      "rank": 29675,
-      "desc": "Rheumatic fever with heart involvement",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I01"
-    },
-    {
-      "node": [
-        {
-          "code": "I45.5",
-          "rank": 29670,
-          "desc": "Other specified heart block",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I45.5"
-        }
-      ],
-      "code": "I45",
-      "rank": 29670,
-      "desc": "Other conduction disorders",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I45"
-    },
-    {
-      "node": [
-        {
-          "node": [
-            {
-              "code": "A54.83",
-              "rank": 29644,
-              "desc": "Gonococcal heart infection",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/A54.83"
-            }
-          ],
-          "code": "A54.8",
-          "rank": 29644,
-          "desc": "Other gonococcal infections",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/A54.8"
-        }
-      ],
-      "code": "A54",
-      "rank": 29644,
-      "desc": "Gonococcal infection",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/A54"
-    },
-    {
-      "node": [
-        {
-          "code": "A39.5",
-          "rank": 29559,
-          "desc": "Meningococcal heart disease",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/A39.5"
-        }
-      ],
-      "code": "A39",
-      "rank": 29559,
-      "desc": "Meningococcal infection",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/A39"
-    },
-    {
-      "node": [
-        {
-          "node": [
-            {
-              "code": "A01.02",
-              "rank": 29512,
-              "desc": "Typhoid fever with heart involvement",
-              "serviceDate": "10/01/2015",
-              "status": "New",
-              "hrefBeg": "/ws/codetype/icd10cm/A01.02"
-            }
-          ],
-          "code": "A01.0",
-          "rank": 29512,
-          "desc": "Typhoid fever",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/A01.0"
-        }
-      ],
-      "code": "A01",
-      "rank": 29512,
-      "desc": "Typhoid and paratyphoid fevers",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/A01"
-    },
-    {
-      "node": [
-        {
-          "code": "I13.1",
-          "rank": 26492,
-          "desc": "Hypertensive heart and chronic kidney disease without heart failure",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I13.1"
-        }
-      ],
-      "code": "I13",
-      "rank": 26492,
-      "desc": "Hypertensive heart and chronic kidney disease",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I13"
-    },
-    {
-      "node": [
-        {
-          "code": "I24.9",
-          "rank": 26437,
-          "desc": "Acute ischemic heart disease, unspecified",
-          "hcc": "HCC87",
-          "hccDesc": "Unstable Angina and Other Acute Ischemic Heart Disease",
-          "serviceDate": "10/01/2015",
-          "status": "New",
-          "hrefBeg": "/ws/codetype/icd10cm/I24.9"
-        }
-      ],
-      "code": "I24",
-      "rank": 26437,
-      "desc": "Other acute ischemic heart diseases",
-      "serviceDate": "10/01/2015",
-      "status": "New",
-      "hrefBeg": "/ws/codetype/icd10cm/I24"
-    }
-  ]
-}
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<term-search-groups>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I11">
+        <node href-beg="/ws/codetype/icd10cm/I11.0">
+            <code>I11.0</code>
+            <rank>104356</rank>
+            <desc>Hypertensive heart disease with heart failure</desc>
+            <hcc>HCC85</hcc>
+            <hcc-desc>Congestive Heart Failure</hcc-desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/I11.9">
+            <code>I11.9</code>
+            <rank>90222</rank>
+            <desc>Hypertensive heart disease without heart failure</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>I11</code>
+        <rank>104356</rank>
+        <desc>Hypertensive heart disease</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/T86">
+        <node href-beg="/ws/codetype/icd10cm/T86.2">
+            <node href-beg="/ws/codetype/icd10cm/T86.22">
+                <code>T86.22</code>
+                <rank>85268</rank>
+                <desc>Heart transplant failure</desc>
+                <hcc>HCC186</hcc>
+                <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T86.20">
+                <code>T86.20</code>
+                <rank>85266</rank>
+                <desc>Unspecified complication of heart transplant</desc>
+                <hcc>HCC186</hcc>
+                <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T86.29">
+                <node href-beg="/ws/codetype/icd10cm/T86.298">
+                    <code>T86.298</code>
+                    <rank>85205</rank>
+                    <desc>Other complications of heart transplant</desc>
+                    <hcc>HCC186</hcc>
+                    <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>T86.29</code>
+                <rank>85205</rank>
+                <desc>Other complications of heart transplant</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T86.21">
+                <code>T86.21</code>
+                <rank>57540</rank>
+                <desc>Heart transplant rejection</desc>
+                <hcc>HCC186</hcc>
+                <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T86.23">
+                <code>T86.23</code>
+                <rank>57518</rank>
+                <desc>Heart transplant infection</desc>
+                <hcc>HCC186</hcc>
+                <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>T86.2</code>
+            <rank>85268</rank>
+            <desc>Complications of heart transplant</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/T86.3">
+            <node href-beg="/ws/codetype/icd10cm/T86.32">
+                <code>T86.32</code>
+                <rank>56868</rank>
+                <desc>Heart-lung transplant failure</desc>
+                <hcc>HCC186</hcc>
+                <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T86.30">
+                <code>T86.30</code>
+                <rank>50146</rank>
+                <desc>Unspecified complication of heart-lung transplant</desc>
+                <hcc>HCC186</hcc>
+                <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T86.31">
+                <code>T86.31</code>
+                <rank>29709</rank>
+                <desc>Heart-lung transplant rejection</desc>
+                <hcc>HCC186</hcc>
+                <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T86.33">
+                <code>T86.33</code>
+                <rank>29706</rank>
+                <desc>Heart-lung transplant infection</desc>
+                <hcc>HCC186</hcc>
+                <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>T86.3</code>
+            <rank>56868</rank>
+            <desc>Complications of heart-lung transplant</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>T86</code>
+        <rank>85268</rank>
+        <desc>Complications of transplanted organs and tissue</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/C38">
+        <node href-beg="/ws/codetype/icd10cm/C38.0">
+            <code>C38.0</code>
+            <rank>85099</rank>
+            <desc>Malignant neoplasm of heart</desc>
+            <hcc>HCC11</hcc>
+            <hcc-desc>Colorectal, Bladder, and Other Cancers</hcc-desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/C38.8">
+            <code>C38.8</code>
+            <rank>44029</rank>
+            <desc>Malignant neoplasm of overlapping sites of heart, mediastinum and pleura</desc>
+            <hcc>HCC11</hcc>
+            <hcc-desc>Colorectal, Bladder, and Other Cancers</hcc-desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>C38</code>
+        <rank>85099</rank>
+        <desc>Malignant neoplasm of heart, mediastinum and pleura</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/Z94">
+        <node href-beg="/ws/codetype/icd10cm/Z94.1">
+            <code>Z94.1</code>
+            <rank>84967</rank>
+            <desc>Heart transplant status</desc>
+            <hcc>HCC186</hcc>
+            <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/Z94.3">
+            <code>Z94.3</code>
+            <rank>56649</rank>
+            <desc>Heart and lungs transplant status</desc>
+            <hcc>HCC186</hcc>
+            <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>Z94</code>
+        <rank>84967</rank>
+        <desc>Transplanted organ and tissue status</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I50">
+        <node href-beg="/ws/codetype/icd10cm/I50.2">
+            <node href-beg="/ws/codetype/icd10cm/I50.20">
+                <code>I50.20</code>
+                <rank>76270</rank>
+                <desc>Unspecified systolic (congestive) heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/I50.21">
+                <code>I50.21</code>
+                <rank>76270</rank>
+                <desc>Acute systolic (congestive) heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/I50.22">
+                <code>I50.22</code>
+                <rank>51541</rank>
+                <desc>Chronic systolic (congestive) heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/I50.23">
+                <code>I50.23</code>
+                <rank>44821</rank>
+                <desc>Acute on chronic systolic (congestive) heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>I50.2</code>
+            <rank>76270</rank>
+            <desc>Systolic (congestive) heart failure</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/I50.3">
+            <node href-beg="/ws/codetype/icd10cm/I50.30">
+                <code>I50.30</code>
+                <rank>75854</rank>
+                <desc>Unspecified diastolic (congestive) heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/I50.31">
+                <code>I50.31</code>
+                <rank>75854</rank>
+                <desc>Acute diastolic (congestive) heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/I50.32">
+                <code>I50.32</code>
+                <rank>51264</rank>
+                <desc>Chronic diastolic (congestive) heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/I50.33">
+                <code>I50.33</code>
+                <rank>44330</rank>
+                <desc>Acute on chronic diastolic (congestive) heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>I50.3</code>
+            <rank>75854</rank>
+            <desc>Diastolic (congestive) heart failure</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/I50.9">
+            <code>I50.9</code>
+            <rank>59163</rank>
+            <desc>Heart failure, unspecified</desc>
+            <hcc>HCC85</hcc>
+            <hcc-desc>Congestive Heart Failure</hcc-desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/I50.4">
+            <node href-beg="/ws/codetype/icd10cm/I50.40">
+                <code>I50.40</code>
+                <rank>37517</rank>
+                <desc>Unspecified combined systolic (congestive) and diastolic (congestive) heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/I50.42">
+                <code>I50.42</code>
+                <rank>36867</rank>
+                <desc>Chronic combined systolic (congestive) and diastolic (congestive) heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/I50.43">
+                <code>I50.43</code>
+                <rank>36842</rank>
+                <desc>Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>I50.4</code>
+            <rank>37517</rank>
+            <desc>Combined systolic (congestive) and diastolic (congestive) heart failure</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>I50</code>
+        <rank>76270</rank>
+        <desc>Heart failure</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/Z48">
+        <node href-beg="/ws/codetype/icd10cm/Z48.2">
+            <node href-beg="/ws/codetype/icd10cm/Z48.21">
+                <code>Z48.21</code>
+                <rank>74852</rank>
+                <desc>Encounter for aftercare following heart transplant</desc>
+                <hcc>HCC186</hcc>
+                <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/Z48.28">
+                <node href-beg="/ws/codetype/icd10cm/Z48.280">
+                    <code>Z48.280</code>
+                    <rank>42964</rank>
+                    <desc>Encounter for aftercare following heart-lung transplant</desc>
+                    <hcc>HCC186</hcc>
+                    <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>Z48.28</code>
+                <rank>42964</rank>
+                <desc>Encounter for aftercare following multiple organ transplant</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>Z48.2</code>
+            <rank>74852</rank>
+            <desc>Encounter for aftercare following organ transplant</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>Z48</code>
+        <rank>74852</rank>
+        <desc>Encounter for other postprocedural aftercare</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/A18">
+        <node href-beg="/ws/codetype/icd10cm/A18.8">
+            <node href-beg="/ws/codetype/icd10cm/A18.84">
+                <code>A18.84</code>
+                <rank>70482</rank>
+                <desc>Tuberculosis of heart</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>A18.8</code>
+            <rank>70482</rank>
+            <desc>Tuberculosis of other specified organs</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>A18</code>
+        <rank>70482</rank>
+        <desc>Tuberculosis of other organs</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I25">
+        <node href-beg="/ws/codetype/icd10cm/I25.3">
+            <code>I25.3</code>
+            <rank>70344</rank>
+            <desc>Aneurysm of heart</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/I25.9">
+            <code>I25.9</code>
+            <rank>26629</rank>
+            <desc>Chronic ischemic heart disease, unspecified</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>I25</code>
+        <rank>70344</rank>
+        <desc>Chronic ischemic heart disease</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/Q22">
+        <node href-beg="/ws/codetype/icd10cm/Q22.6">
+            <code>Q22.6</code>
+            <rank>57531</rank>
+            <desc>Hypoplastic right heart syndrome</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>Q22</code>
+        <rank>57531</rank>
+        <desc>Congenital malformations of pulmonary and tricuspid valves</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/Q23">
+        <node href-beg="/ws/codetype/icd10cm/Q23.4">
+            <code>Q23.4</code>
+            <rank>57215</rank>
+            <desc>Hypoplastic left heart syndrome</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>Q23</code>
+        <rank>57215</rank>
+        <desc>Congenital malformations of aortic and mitral valves</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I02">
+        <node href-beg="/ws/codetype/icd10cm/I02.0">
+            <code>I02.0</code>
+            <rank>57078</rank>
+            <desc>Rheumatic chorea with heart involvement</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>I02</code>
+        <rank>57078</rank>
+        <desc>Rheumatic chorea</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I51">
+        <node href-beg="/ws/codetype/icd10cm/I51.9">
+            <code>I51.9</code>
+            <rank>56897</rank>
+            <desc>Heart disease, unspecified</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/I51.8">
+            <node href-beg="/ws/codetype/icd10cm/I51.89">
+                <code>I51.89</code>
+                <rank>26678</rank>
+                <desc>Other ill-defined heart diseases</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>I51.8</code>
+            <rank>26678</rank>
+            <desc>Other ill-defined heart diseases</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>I51</code>
+        <rank>56897</rank>
+        <desc>Complications and ill-defined descriptions of heart disease</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I09">
+        <node href-beg="/ws/codetype/icd10cm/I09.8">
+            <node href-beg="/ws/codetype/icd10cm/I09.81">
+                <code>I09.81</code>
+                <rank>56874</rank>
+                <desc>Rheumatic heart failure</desc>
+                <hcc>HCC85</hcc>
+                <hcc-desc>Congestive Heart Failure</hcc-desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>I09.8</code>
+            <rank>56874</rank>
+            <desc>Other specified rheumatic heart diseases</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/I09.9">
+            <code>I09.9</code>
+            <rank>29675</rank>
+            <desc>Rheumatic heart disease, unspecified</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>I09</code>
+        <rank>56874</rank>
+        <desc>Other rheumatic heart diseases</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/Z95">
+        <node href-beg="/ws/codetype/icd10cm/Z95.3">
+            <code>Z95.3</code>
+            <rank>56867</rank>
+            <desc>Presence of xenogenic heart valve</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/Z95.2">
+            <code>Z95.2</code>
+            <rank>56846</rank>
+            <desc>Presence of prosthetic heart valve</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/Z95.4">
+            <code>Z95.4</code>
+            <rank>50152</rank>
+            <desc>Presence of other heart-valve replacement</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/Z95.8">
+            <node href-beg="/ws/codetype/icd10cm/Z95.81">
+                <node href-beg="/ws/codetype/icd10cm/Z95.811">
+                    <code>Z95.811</code>
+                    <rank>29723</rank>
+                    <desc>Presence of heart assist device</desc>
+                    <hcc>HCC186</hcc>
+                    <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <node href-beg="/ws/codetype/icd10cm/Z95.812">
+                    <code>Z95.812</code>
+                    <rank>26351</rank>
+                    <desc>Presence of fully implantable artificial heart</desc>
+                    <hcc>HCC186</hcc>
+                    <hcc-desc>Major Organ Transplant or Replacement Status</hcc-desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>Z95.81</code>
+                <rank>29723</rank>
+                <desc>Presence of other cardiac implants and grafts</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>Z95.8</code>
+            <rank>29723</rank>
+            <desc>Presence of other cardiac and vascular implants and grafts</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>Z95</code>
+        <rank>56867</rank>
+        <desc>Presence of cardiac and vascular implants and grafts</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/Q24">
+        <node href-beg="/ws/codetype/icd10cm/Q24.6">
+            <code>Q24.6</code>
+            <rank>56839</rank>
+            <desc>Congenital heart block</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/Q24.8">
+            <code>Q24.8</code>
+            <rank>51650</rank>
+            <desc>Other specified congenital malformations of heart</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/Q24.9">
+            <code>Q24.9</code>
+            <rank>29722</rank>
+            <desc>Congenital malformation of heart, unspecified</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>Q24</code>
+        <rank>56839</rank>
+        <desc>Other congenital malformations of heart</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/D15">
+        <node href-beg="/ws/codetype/icd10cm/D15.1">
+            <code>D15.1</code>
+            <rank>56598</rank>
+            <desc>Benign neoplasm of heart</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>D15</code>
+        <rank>56598</rank>
+        <desc>Benign neoplasm of other and unspecified intrathoracic organs</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/T82">
+        <node href-beg="/ws/codetype/icd10cm/T82.0">
+            <node href-beg="/ws/codetype/icd10cm/T82.01">
+                <node href-beg="/ws/codetype/icd10cm/T82.01XA">
+                    <code>T82.01XA</code>
+                    <rank>43846</rank>
+                    <desc>Breakdown (mechanical) of heart valve prosthesis, initial encounter</desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>T82.01</code>
+                <rank>43846</rank>
+                <desc>Breakdown (mechanical) of heart valve prosthesis</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T82.02">
+                <node href-beg="/ws/codetype/icd10cm/T82.02XA">
+                    <code>T82.02XA</code>
+                    <rank>43846</rank>
+                    <desc>Displacement of heart valve prosthesis, initial encounter</desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>T82.02</code>
+                <rank>43846</rank>
+                <desc>Displacement of heart valve prosthesis</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T82.03">
+                <node href-beg="/ws/codetype/icd10cm/T82.03XA">
+                    <code>T82.03XA</code>
+                    <rank>43846</rank>
+                    <desc>Leakage of heart valve prosthesis, initial encounter</desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>T82.03</code>
+                <rank>43846</rank>
+                <desc>Leakage of heart valve prosthesis</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T82.09">
+                <node href-beg="/ws/codetype/icd10cm/T82.09XA">
+                    <code>T82.09XA</code>
+                    <rank>36897</rank>
+                    <desc>Other mechanical complication of heart valve prosthesis, initial encounter</desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>T82.09</code>
+                <rank>36897</rank>
+                <desc>Other mechanical complication of heart valve prosthesis</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>T82.0</code>
+            <rank>43846</rank>
+            <desc>Mechanical complication of heart valve prosthesis</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/T82.5">
+            <node href-beg="/ws/codetype/icd10cm/T82.51">
+                <node href-beg="/ws/codetype/icd10cm/T82.512">
+                    <code>T82.512</code>
+                    <rank>29704</rank>
+                    <desc>Breakdown (mechanical) of artificial heart</desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>T82.51</code>
+                <rank>29704</rank>
+                <desc>Breakdown (mechanical) of other cardiac and vascular devices and implants</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T82.53">
+                <node href-beg="/ws/codetype/icd10cm/T82.532">
+                    <node href-beg="/ws/codetype/icd10cm/T82.532S">
+                        <code>T82.532S</code>
+                        <rank>29551</rank>
+                        <desc>Leakage of artificial heart, sequela</desc>
+                        <serviceDate>10/01/2015</serviceDate>
+                        <status>New</status>
+                    </node>
+                    <code>T82.532</code>
+                    <rank>29704</rank>
+                    <desc>Leakage of artificial heart</desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>T82.53</code>
+                <rank>29704</rank>
+                <desc>Leakage of other cardiac and vascular devices and implants</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/T82.52">
+                <node href-beg="/ws/codetype/icd10cm/T82.522">
+                    <node href-beg="/ws/codetype/icd10cm/T82.522S">
+                        <code>T82.522S</code>
+                        <rank>29551</rank>
+                        <desc>Displacement of artificial heart, sequela</desc>
+                        <serviceDate>10/01/2015</serviceDate>
+                        <status>New</status>
+                    </node>
+                    <code>T82.522</code>
+                    <rank>29701</rank>
+                    <desc>Displacement of artificial heart</desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>T82.52</code>
+                <rank>29701</rank>
+                <desc>Displacement of other cardiac and vascular devices and implants</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>T82.5</code>
+            <rank>29704</rank>
+            <desc>Mechanical complication of other cardiac and vascular devices and implants</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>T82</code>
+        <rank>43846</rank>
+        <desc>Complications of cardiac and vascular prosthetic devices, implants and grafts</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I52">
+        <code>I52</code>
+        <rank>43390</rank>
+        <desc>Other heart disorders in diseases classified elsewhere</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/S26">
+        <node href-beg="/ws/codetype/icd10cm/S26.0">
+            <node href-beg="/ws/codetype/icd10cm/S26.02">
+                <node href-beg="/ws/codetype/icd10cm/S26.020">
+                    <code>S26.020</code>
+                    <rank>29710</rank>
+                    <desc>Mild laceration of heart with hemopericardium</desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <node href-beg="/ws/codetype/icd10cm/S26.021">
+                    <code>S26.021</code>
+                    <rank>29684</rank>
+                    <desc>Moderate laceration of heart with hemopericardium</desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <node href-beg="/ws/codetype/icd10cm/S26.022">
+                    <code>S26.022</code>
+                    <rank>29684</rank>
+                    <desc>Major laceration of heart with hemopericardium</desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>S26.02</code>
+                <rank>29710</rank>
+                <desc>Laceration of heart with hemopericardium</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/S26.01">
+                <node href-beg="/ws/codetype/icd10cm/S26.01XS">
+                    <code>S26.01XS</code>
+                    <rank>29555</rank>
+                    <desc>Contusion of heart with hemopericardium, sequela</desc>
+                    <serviceDate>10/01/2015</serviceDate>
+                    <status>New</status>
+                </node>
+                <code>S26.01</code>
+                <rank>29699</rank>
+                <desc>Contusion of heart with hemopericardium</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/S26.09">
+                <code>S26.09</code>
+                <rank>29690</rank>
+                <desc>Other injury of heart with hemopericardium</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/S26.00">
+                <code>S26.00</code>
+                <rank>29683</rank>
+                <desc>Unspecified injury of heart with hemopericardium</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>S26.0</code>
+            <rank>29710</rank>
+            <desc>Injury of heart with hemopericardium</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/S26.1">
+            <node href-beg="/ws/codetype/icd10cm/S26.12">
+                <code>S26.12</code>
+                <rank>29699</rank>
+                <desc>Laceration of heart without hemopericardium</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/S26.11">
+                <code>S26.11</code>
+                <rank>29683</rank>
+                <desc>Contusion of heart without hemopericardium</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/S26.19">
+                <code>S26.19</code>
+                <rank>26364</rank>
+                <desc>Other injury of heart without hemopericardium</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <node href-beg="/ws/codetype/icd10cm/S26.10">
+                <code>S26.10</code>
+                <rank>26358</rank>
+                <desc>Unspecified injury of heart without hemopericardium</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>S26.1</code>
+            <rank>29699</rank>
+            <desc>Injury of heart without hemopericardium</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>S26</code>
+        <rank>36160</rank>
+        <desc>Injury of heart</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/A52">
+        <node href-beg="/ws/codetype/icd10cm/A52.0">
+            <node href-beg="/ws/codetype/icd10cm/A52.06">
+                <code>A52.06</code>
+                <rank>29902</rank>
+                <desc>Other syphilitic heart involvement</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>A52.0</code>
+            <rank>29902</rank>
+            <desc>Cardiovascular and cerebrovascular syphilis</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>A52</code>
+        <rank>29902</rank>
+        <desc>Late syphilis</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/R00">
+        <node href-beg="/ws/codetype/icd10cm/R00.9">
+            <code>R00.9</code>
+            <rank>29717</rank>
+            <desc>Unspecified abnormalities of heart beat</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/R00.8">
+            <code>R00.8</code>
+            <rank>29696</rank>
+            <desc>Other abnormalities of heart beat</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>R00</code>
+        <rank>29717</rank>
+        <desc>Abnormalities of heart beat</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I27">
+        <node href-beg="/ws/codetype/icd10cm/I27.1">
+            <code>I27.1</code>
+            <rank>29716</rank>
+            <desc>Kyphoscoliotic heart disease</desc>
+            <hcc>HCC85</hcc>
+            <hcc-desc>Congestive Heart Failure</hcc-desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <node href-beg="/ws/codetype/icd10cm/I27.9">
+            <code>I27.9</code>
+            <rank>29665</rank>
+            <desc>Pulmonary heart disease, unspecified</desc>
+            <hcc>HCC85</hcc>
+            <hcc-desc>Congestive Heart Failure</hcc-desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>I27</code>
+        <rank>29716</rank>
+        <desc>Other pulmonary heart diseases</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I97">
+        <node href-beg="/ws/codetype/icd10cm/I97.1">
+            <node href-beg="/ws/codetype/icd10cm/I97.13">
+                <code>I97.13</code>
+                <rank>29707</rank>
+                <desc>Postprocedural heart failure</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>I97.1</code>
+            <rank>29707</rank>
+            <desc>Other postprocedural cardiac functional disturbances</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>I97</code>
+        <rank>29707</rank>
+        <desc>Intraoperative and postprocedural complications and disorders of circulatory system, not elsewhere classified</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I01">
+        <code>I01</code>
+        <rank>29675</rank>
+        <desc>Rheumatic fever with heart involvement</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I45">
+        <node href-beg="/ws/codetype/icd10cm/I45.5">
+            <code>I45.5</code>
+            <rank>29670</rank>
+            <desc>Other specified heart block</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>I45</code>
+        <rank>29670</rank>
+        <desc>Other conduction disorders</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/A54">
+        <node href-beg="/ws/codetype/icd10cm/A54.8">
+            <node href-beg="/ws/codetype/icd10cm/A54.83">
+                <code>A54.83</code>
+                <rank>29644</rank>
+                <desc>Gonococcal heart infection</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>A54.8</code>
+            <rank>29644</rank>
+            <desc>Other gonococcal infections</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>A54</code>
+        <rank>29644</rank>
+        <desc>Gonococcal infection</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/A39">
+        <node href-beg="/ws/codetype/icd10cm/A39.5">
+            <code>A39.5</code>
+            <rank>29559</rank>
+            <desc>Meningococcal heart disease</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>A39</code>
+        <rank>29559</rank>
+        <desc>Meningococcal infection</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/A01">
+        <node href-beg="/ws/codetype/icd10cm/A01.0">
+            <node href-beg="/ws/codetype/icd10cm/A01.02">
+                <code>A01.02</code>
+                <rank>29512</rank>
+                <desc>Typhoid fever with heart involvement</desc>
+                <serviceDate>10/01/2015</serviceDate>
+                <status>New</status>
+            </node>
+            <code>A01.0</code>
+            <rank>29512</rank>
+            <desc>Typhoid fever</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>A01</code>
+        <rank>29512</rank>
+        <desc>Typhoid and paratyphoid fevers</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I13">
+        <node href-beg="/ws/codetype/icd10cm/I13.1">
+            <code>I13.1</code>
+            <rank>26492</rank>
+            <desc>Hypertensive heart and chronic kidney disease without heart failure</desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>I13</code>
+        <rank>26492</rank>
+        <desc>Hypertensive heart and chronic kidney disease</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+    <term-search-group href-beg="/ws/codetype/icd10cm/I24">
+        <node href-beg="/ws/codetype/icd10cm/I24.9">
+            <code>I24.9</code>
+            <rank>26437</rank>
+            <desc>Acute ischemic heart disease, unspecified</desc>
+            <hcc>HCC87</hcc>
+            <hcc-desc>Unstable Angina and Other Acute Ischemic Heart Disease</hcc-desc>
+            <serviceDate>10/01/2015</serviceDate>
+            <status>New</status>
+        </node>
+        <code>I24</code>
+        <rank>26437</rank>
+        <desc>Other acute ischemic heart diseases</desc>
+        <serviceDate>10/01/2015</serviceDate>
+        <status>New</status>
+    </term-search-group>
+</term-search-groups>
