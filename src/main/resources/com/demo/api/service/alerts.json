@@ -1,0 +1,95 @@
+[
+      {
+      "alertType": "drugfood",
+      "severityLevel": "2",
+      "description":       [
+         "Hypoprothrombinemic effects of Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG may be decreased by vitamin K-enriched foods or increased by grapefruit or cranberry juice.",
+         "The oral bioavailability and pharmacologic effects of statins may be increased by grapefruit juice. Although relatively uncommon, skeletal muscle toxicity characterized by myalgias and rhabdomyolysis may result. The predictability of this interaction is difficult to determine due to the variance of study methods, doses of statins used, and the amounts and timing of grapefruit juice that was administered.",
+         "Pharmacologic effects of Clopidogrel Bisulfate Oral Tablet 75 MG may be decreased by consumption of grapefruit juice.",
+         "The absorption of Ciprofloxacin HCl Oral Tablet Extended Release 24 Hour 500 MG may be reduced when administered with food."
+      ]
+   },
+      {
+      "alertType": "pregnancycontraindication",
+      "severityLevel": "5",
+      "description":       [
+         "Administration of Avodart Oral Capsule 0.5 MG is contraindicated in Pregnancy.  Since Gestational Diabetes is related to Pregnancy, the same precaution may apply.",
+         "Administration of Proscar Oral Tablet 5 MG is contraindicated in Pregnancy.  Since Gestational Diabetes is related to Pregnancy, the same precaution may apply.",
+         "Administration of Simvastatin 20 MG Oral Tablet is contraindicated in Pregnancy.  Since Gestational Diabetes is related to Pregnancy, the same precaution may apply.",
+         "Administration of Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG is contraindicated in Pregnancy.  Since Gestational Diabetes is related to Pregnancy, the same precaution may apply.",
+         "Administration of Calcitonin (Salmon) (rDNA) Nasal Soln 200 Unit/ACT should be used with extreme caution in Pregnancy.  Since Gestational Diabetes is related to Pregnancy, the same precaution may apply.",
+         "Administration of Ciprofloxacin HCl Oral Tablet Extended Release 24 Hour 500 MG should be used with extreme caution in Pregnancy.  Since Gestational Diabetes is related to Pregnancy, the same precaution may apply.",
+         "Administration of Zolpidem Tartrate should be used with extreme caution in Pregnancy.  Since Gestational Diabetes is related to Pregnancy, the same precaution may apply.",
+         "Administration of Clopidogrel Bisulfate Oral Tablet 75 MG should be used cautiously in Pregnancy.  Since Gestational Diabetes is related to Pregnancy, the same precaution may apply.",
+         "Administration of Esomeprazole Magnesium Cap Delayed Release 40 MG (Base Eq) should be used cautiously in Pregnancy.  Since Gestational Diabetes is related to Pregnancy, the same precaution may apply.",
+         "Information for Acetaminophen Oral Tablet 325 MG in Pregnancy.  Since Gestational Diabetes is related to Pregnancy, the same precaution may apply."
+      ]
+   },
+      {
+      "alertType": "agecontraindication",
+      "severityLevel": "4",
+      "description":       [
+         "Administration of Zolpidem Tartrate is not recommended in Geriatric Patients.",
+         "Administration of Ciprofloxacin HCl Oral Tablet Extended Release 24 Hour 500 MG should be used with extreme caution in Geriatric Patients.",
+         "Administration of Esomeprazole Magnesium Cap Delayed Release 40 MG (Base Eq) should be used with extreme caution in Geriatric Patients.",
+         "Administration of Simvastatin 20 MG Oral Tablet should be used cautiously in Geriatric Patients.",
+         "Administration of Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG should be used cautiously in Geriatric Patients."
+      ]
+   },
+      {
+      "alertType": "duplicatetherapy",
+      "severityLevel": null,
+      "description":       [
+         "Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG appear to contain the same drug ingredient(s).",
+         "Avodart Oral Capsule 0.5 MG and Proscar Oral Tablet 5 MG are in the 5-ALPHA-REDUCTASE INHIBITORS class and may represent a therapeutic duplication."
+      ]
+   },
+      {
+      "alertType": "drugalcohol",
+      "severityLevel": "2",
+      "description":       [
+         "The sedative effects of Zolpidem Tartrate may be enhanced by quantities of alcohol contained in alcoholic beverages. In addition, co-ingestion of alcohol with oral extended release dosage forms of morphine, oxymorphone, and hydromorphone may result in increased plasma concentrations of the narcotic and the potential of fatal overdose situations.",
+         "The risk of acetaminophen-induced hepatotoxicity may be increased by chronic intake of Alcoholic Beverages.",
+         "The hypoprothrombinemic effect of Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG may be in/decreased by Alcoholic Beverages."
+      ]
+   },
+      {
+      "alertType": "lactationcontraindication",
+      "severityLevel": "4",
+      "description":       [
+         "Administration of Simvastatin 20 MG Oral Tablet is contraindicated in Lactation.  Since Galactorrhea associated with Childbirth is related to Lactation, the same precaution may apply.",
+         "Administration of Avodart Oral Capsule 0.5 MG and Proscar Oral Tablet 5 MG is not recommended in Lactation.  Since Galactorrhea associated with Childbirth is related to Lactation, the same precaution may apply.",
+         "Administration of Calcitonin (Salmon) (rDNA) Nasal Soln 200 Unit/ACT is not recommended in Lactation.  Since Galactorrhea associated with Childbirth is related to Lactation, the same precaution may apply.",
+         "Administration of Ciprofloxacin HCl Oral Tablet Extended Release 24 Hour 500 MG is not recommended in Lactation.  Since Galactorrhea associated with Childbirth is related to Lactation, the same precaution may apply.",
+         "Administration of Clopidogrel Bisulfate Oral Tablet 75 MG is not recommended in Lactation.  Since Galactorrhea associated with Childbirth is related to Lactation, the same precaution may apply.",
+         "Administration of Esomeprazole Magnesium Cap Delayed Release 40 MG (Base Eq) is not recommended in Lactation.  Since Galactorrhea associated with Childbirth is related to Lactation, the same precaution may apply.",
+         "Administration of Zolpidem Tartrate should be used with extreme caution in Lactation.  Since Galactorrhea associated with Childbirth is related to Lactation, the same precaution may apply.",
+         "Administration of Zolpidem Tartrate should be used with extreme caution in Lactation.  Since Galactorrhea associated with Childbirth is related to Lactation, the same precaution may apply.",
+         "Administration of Acetaminophen Oral Tablet 325 MG should be used cautiously in Lactation.  Since Galactorrhea associated with Childbirth is related to Lactation, the same precaution may apply.",
+         "Administration of Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG should be used cautiously in Lactation.  Since Galactorrhea associated with Childbirth is related to Lactation, the same precaution may apply."
+      ]
+   },
+      {
+      "alertType": "allergy",
+      "severityLevel": null,
+      "description": ["The use of Esomeprazole Magnesium Cap Delayed Release 40 MG (Base Eq) may result in an allergic reaction based on a reported history of allergy to Proton Pump Inhibitors."]
+   },
+      {
+      "alertType": "gendercontraindication",
+      "severityLevel": "2",
+      "description": ["Administration of Calcitonin (Salmon) (rDNA) Nasal Soln 200 Unit/ACT is not recommended in Males."]
+   },
+      {
+      "alertType": "drugdrug",
+      "severityLevel": "2",
+      "description":       [
+         "Hypoprothrombinemic effects of Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG may be increased by Ciprofloxacin HCl Oral Tablet Extended Release 24 Hour 500 MG. Dosage reduction of Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG may be required.",
+         "Coadministration of Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG and Clopidogrel Bisulfate Oral Tablet 75 MG may increase the risk of bleeding. The addition of aspirin to combination Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG and Clopidogrel Bisulfate Oral Tablet 75 MG therapy may further increase the risk of bleeding.",
+         "Use of Esomeprazole Magnesium Cap Delayed Release 40 MG (Base Eq) may lead to reduced ability of Clopidogrel Bisulfate Oral Tablet 75 MG to inhibit platelet aggregation and increase the risk of subsequent cardiovascular events. Coadministration of Esomeprazole Magnesium Cap Delayed Release 40 MG (Base Eq) and Clopidogrel Bisulfate Oral Tablet 75 MG should be avoided according to the official package labeling of Clopidogrel Bisulfate Oral Tablet 75 MG. However, according to an expert consensus document, the benefits of Esomeprazole Magnesium Cap Delayed Release 40 MG (Base Eq) may outweigh the risk of the potential reduction in cardiovascular efficacy in patients receiving Clopidogrel Bisulfate Oral Tablet 75 MG who are at high risk for gastrointestinal bleeding.",
+         "Acetaminophen may enhance the anticoagulant effect of Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG. This appears to be most likely with daily acetaminophen doses exceeding 2 g/day for multiple consecutive days.",
+         "Hypoprothrombinemic effects of Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG may be increased by Simvastatin 20 MG Oral Tablet in an unpredictable fashion. Monitor coagulation status after addition of statin therapy (or a change to a different statin) in a patient on a stabilized warfarin regimen.",
+         "Pharmacologic and toxic effects of Simvastatin 20 MG Oral Tablet may be increased by Ciprofloxacin HCl Oral Tablet Extended Release 24 Hour 500 MG. Rhabdomyolysis may occur.",
+         "The hypoprothrombinemic effect of Warfarin Sodium Oral Tablet 3 MG and Warfarin Sodium Tab 5 MG may be increased by Esomeprazole Magnesium Cap Delayed Release 40 MG (Base Eq)."
+      ]
+   }
+]

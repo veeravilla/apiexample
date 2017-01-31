@@ -4,12 +4,16 @@
       "node": [
         {
           "code": "P70.2",
+          "rank": 301356,
+          "desc": "Neonatal diabetes mellitus",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/P70.2"
         }
       ],
       "code": "P70",
+      "rank": 301356,
+      "desc": "Transitory disorders of carbohydrate metabolism specific to newborn",
       "serviceDate": "10/01/2015",
       "status": "New",
       "hrefBeg": "/ws/codetype/icd10cm/P70"
@@ -18,12 +22,16 @@
       "node": [
         {
           "code": "Z83.3",
+          "rank": 254503,
+          "desc": "Family history of diabetes mellitus",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/Z83.3"
         }
       ],
       "code": "Z83",
+      "rank": 254503,
+      "desc": "Family history of other specific disorders",
       "serviceDate": "10/01/2015",
       "status": "New",
       "hrefBeg": "/ws/codetype/icd10cm/Z83"
@@ -32,12 +40,16 @@
       "node": [
         {
           "code": "Z13.1",
+          "rank": 249487,
+          "desc": "Encounter for screening for diabetes mellitus",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/Z13.1"
         }
       ],
       "code": "Z13",
+      "rank": 249487,
+      "desc": "Encounter for screening for other diseases and disorders",
       "serviceDate": "10/01/2015",
       "status": "New",
       "hrefBeg": "/ws/codetype/icd10cm/Z13"
@@ -48,12 +60,16 @@
           "node": [
             {
               "code": "O24.92",
+              "rank": 237200,
+              "desc": "Unspecified diabetes mellitus in childbirth",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/O24.92"
             },
             {
               "code": "O24.93",
+              "rank": 237200,
+              "desc": "Unspecified diabetes mellitus in the puerperium",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/O24.93"
@@ -62,30 +78,40 @@
               "node": [
                 {
                   "code": "O24.912",
+                  "rank": 80999,
+                  "desc": "Unspecified diabetes mellitus in pregnancy, second trimester",
                   "serviceDate": "10/01/2015",
                   "status": "New",
                   "hrefBeg": "/ws/codetype/icd10cm/O24.912"
                 },
                 {
                   "code": "O24.913",
+                  "rank": 80999,
+                  "desc": "Unspecified diabetes mellitus in pregnancy, third trimester",
                   "serviceDate": "10/01/2015",
                   "status": "New",
                   "hrefBeg": "/ws/codetype/icd10cm/O24.913"
                 },
                 {
                   "code": "O24.919",
+                  "rank": 80999,
+                  "desc": "Unspecified diabetes mellitus in pregnancy, unspecified trimester",
                   "serviceDate": "10/01/2015",
                   "status": "New",
                   "hrefBeg": "/ws/codetype/icd10cm/O24.919"
                 }
               ],
               "code": "O24.91",
+              "rank": 126540,
+              "desc": "Unspecified diabetes mellitus in pregnancy",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/O24.91"
             }
           ],
           "code": "O24.9",
+          "rank": 237200,
+          "desc": "Unspecified diabetes mellitus in pregnancy, childbirth and the puerperium",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/O24.9"
@@ -94,24 +120,32 @@
           "node": [
             {
               "code": "O24.12",
+              "rank": 124779,
+              "desc": "Pre-existing type 2 diabetes mellitus, in childbirth",
               "serviceDate": "10/01/2016",
               "status": "Changed",
               "hrefBeg": "/ws/codetype/icd10cm/O24.12"
             },
             {
               "code": "O24.11",
+              "rank": 68869,
+              "desc": "Pre-existing type 2 diabetes mellitus, in pregnancy",
               "serviceDate": "10/01/2016",
               "status": "Changed",
               "hrefBeg": "/ws/codetype/icd10cm/O24.11"
             },
             {
               "code": "O24.13",
+              "rank": 63521,
+              "desc": "Pre-existing type 2 diabetes mellitus, in the puerperium",
               "serviceDate": "10/01/2016",
               "status": "Changed",
               "hrefBeg": "/ws/codetype/icd10cm/O24.13"
             }
           ],
           "code": "O24.1",
+          "rank": 124779,
+          "desc": "Pre-existing type 2 diabetes mellitus, in pregnancy, childbirth and the puerperium",
           "serviceDate": "10/01/2016",
           "status": "Changed",
           "hrefBeg": "/ws/codetype/icd10cm/O24.1"
@@ -120,24 +154,32 @@
           "node": [
             {
               "code": "O24.41",
+              "rank": 73050,
+              "desc": "Gestational diabetes mellitus in pregnancy",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/O24.41"
             },
             {
               "code": "O24.42",
+              "rank": 73050,
+              "desc": "Gestational diabetes mellitus in childbirth",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/O24.42"
             },
             {
               "code": "O24.43",
+              "rank": 73050,
+              "desc": "Gestational diabetes mellitus in the puerperium",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/O24.43"
             }
           ],
           "code": "O24.4",
+          "rank": 117131,
+          "desc": "Gestational diabetes mellitus",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/O24.4"
@@ -146,6 +188,8 @@
           "node": [
             {
               "code": "O24.82",
+              "rank": 92655,
+              "desc": "Other pre-existing diabetes mellitus in childbirth",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/O24.82"
@@ -154,18 +198,24 @@
               "node": [
                 {
                   "code": "O24.812",
+                  "rank": 68261,
+                  "desc": "Other pre-existing diabetes mellitus in pregnancy, second trimester",
                   "serviceDate": "10/01/2015",
                   "status": "New",
                   "hrefBeg": "/ws/codetype/icd10cm/O24.812"
                 }
               ],
               "code": "O24.81",
+              "rank": 68261,
+              "desc": "Other pre-existing diabetes mellitus in pregnancy",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/O24.81"
             }
           ],
           "code": "O24.8",
+          "rank": 92655,
+          "desc": "Other pre-existing diabetes mellitus in pregnancy, childbirth, and the puerperium",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/O24.8"
@@ -176,30 +226,40 @@
               "node": [
                 {
                   "code": "O24.013",
+                  "rank": 91755,
+                  "desc": "Pre-existing type 1 diabetes mellitus, in pregnancy, third trimester",
                   "serviceDate": "10/01/2016",
                   "status": "Changed",
                   "hrefBeg": "/ws/codetype/icd10cm/O24.013"
                 }
               ],
               "code": "O24.01",
+              "rank": 91755,
+              "desc": "Pre-existing type 1 diabetes mellitus, in pregnancy",
               "serviceDate": "10/01/2016",
               "status": "Changed",
               "hrefBeg": "/ws/codetype/icd10cm/O24.01"
             },
             {
               "code": "O24.03",
+              "rank": 63521,
+              "desc": "Pre-existing type 1 diabetes mellitus, in the puerperium",
               "serviceDate": "10/01/2016",
               "status": "Changed",
               "hrefBeg": "/ws/codetype/icd10cm/O24.03"
             }
           ],
           "code": "O24.0",
+          "rank": 91755,
+          "desc": "Pre-existing type 1 diabetes mellitus, in pregnancy, childbirth and the puerperium",
           "serviceDate": "10/01/2016",
           "status": "Changed",
           "hrefBeg": "/ws/codetype/icd10cm/O24.0"
         }
       ],
       "code": "O24",
+      "rank": 237200,
+      "desc": "Diabetes mellitus in pregnancy, childbirth, and the puerperium",
       "serviceDate": "10/01/2015",
       "status": "New",
       "hrefBeg": "/ws/codetype/icd10cm/O24"
@@ -210,6 +270,8 @@
           "node": [
             {
               "code": "E08.01",
+              "rank": 155112,
+              "desc": "Diabetes mellitus due to underlying condition with hyperosmolarity with coma",
               "hcc": "HCC17",
               "hccDesc": "Diabetes with Acute Complications",
               "serviceDate": "10/01/2015",
@@ -218,6 +280,8 @@
             },
             {
               "code": "E08.00",
+              "rank": 72086,
+              "desc": "Diabetes mellitus due to underlying condition with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)",
               "hcc": "HCC17",
               "hccDesc": "Diabetes with Acute Complications",
               "serviceDate": "10/01/2015",
@@ -226,6 +290,8 @@
             }
           ],
           "code": "E08.0",
+          "rank": 155112,
+          "desc": "Diabetes mellitus due to underlying condition with hyperosmolarity",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E08.0"
@@ -234,6 +300,8 @@
           "node": [
             {
               "code": "E08.65",
+              "rank": 140052,
+              "desc": "Diabetes mellitus due to underlying condition with hyperglycemia",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -244,6 +312,8 @@
               "node": [
                 {
                   "code": "E08.621",
+                  "rank": 121394,
+                  "desc": "Diabetes mellitus due to underlying condition with foot ulcer",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -252,6 +322,8 @@
                 },
                 {
                   "code": "E08.620",
+                  "rank": 92081,
+                  "desc": "Diabetes mellitus due to underlying condition with diabetic dermatitis",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -260,6 +332,8 @@
                 },
                 {
                   "code": "E08.628",
+                  "rank": 90248,
+                  "desc": "Diabetes mellitus due to underlying condition with other skin complications",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -268,6 +342,8 @@
                 },
                 {
                   "code": "E08.622",
+                  "rank": 78626,
+                  "desc": "Diabetes mellitus due to underlying condition with other skin ulcer",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -276,6 +352,8 @@
                 }
               ],
               "code": "E08.62",
+              "rank": 121394,
+              "desc": "Diabetes mellitus due to underlying condition with skin complications",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E08.62"
@@ -284,6 +362,8 @@
               "node": [
                 {
                   "code": "E08.630",
+                  "rank": 93174,
+                  "desc": "Diabetes mellitus due to underlying condition with periodontal disease",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -292,6 +372,8 @@
                 },
                 {
                   "code": "E08.638",
+                  "rank": 79256,
+                  "desc": "Diabetes mellitus due to underlying condition with other oral complications",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -300,6 +382,8 @@
                 }
               ],
               "code": "E08.63",
+              "rank": 93174,
+              "desc": "Diabetes mellitus due to underlying condition with oral complications",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E08.63"
@@ -308,6 +392,8 @@
               "node": [
                 {
                   "code": "E08.618",
+                  "rank": 78980,
+                  "desc": "Diabetes mellitus due to underlying condition with other diabetic arthropathy",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -316,6 +402,8 @@
                 }
               ],
               "code": "E08.61",
+              "rank": 78980,
+              "desc": "Diabetes mellitus due to underlying condition with diabetic arthropathy",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E08.61"
@@ -324,6 +412,8 @@
               "node": [
                 {
                   "code": "E08.649",
+                  "rank": 78855,
+                  "desc": "Diabetes mellitus due to underlying condition with hypoglycemia without coma",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -332,12 +422,16 @@
                 }
               ],
               "code": "E08.64",
+              "rank": 78855,
+              "desc": "Diabetes mellitus due to underlying condition with hypoglycemia",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E08.64"
             }
           ],
           "code": "E08.6",
+          "rank": 140052,
+          "desc": "Diabetes mellitus due to underlying condition with other specified complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E08.6"
@@ -346,6 +440,8 @@
           "node": [
             {
               "code": "E08.10",
+              "rank": 117253,
+              "desc": "Diabetes mellitus due to underlying condition with ketoacidosis without coma",
               "hcc": "HCC17",
               "hccDesc": "Diabetes with Acute Complications",
               "serviceDate": "10/01/2015",
@@ -354,6 +450,8 @@
             },
             {
               "code": "E08.11",
+              "rank": 104259,
+              "desc": "Diabetes mellitus due to underlying condition with ketoacidosis with coma",
               "hcc": "HCC17",
               "hccDesc": "Diabetes with Acute Complications",
               "serviceDate": "10/01/2015",
@@ -362,6 +460,8 @@
             }
           ],
           "code": "E08.1",
+          "rank": 117253,
+          "desc": "Diabetes mellitus due to underlying condition with ketoacidosis",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E08.1"
@@ -370,6 +470,8 @@
           "node": [
             {
               "code": "E08.21",
+              "rank": 90833,
+              "desc": "Diabetes mellitus due to underlying condition with diabetic nephropathy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -378,6 +480,8 @@
             },
             {
               "code": "E08.22",
+              "rank": 78980,
+              "desc": "Diabetes mellitus due to underlying condition with diabetic chronic kidney disease",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -386,6 +490,8 @@
             },
             {
               "code": "E08.29",
+              "rank": 78617,
+              "desc": "Diabetes mellitus due to underlying condition with other diabetic kidney complication",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -394,6 +500,8 @@
             }
           ],
           "code": "E08.2",
+          "rank": 90833,
+          "desc": "Diabetes mellitus due to underlying condition with kidney complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E08.2"
@@ -404,6 +512,8 @@
               "node": [
                 {
                   "code": "E08.311",
+                  "rank": 78662,
+                  "desc": "Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy with macular edema",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -412,6 +522,8 @@
                 },
                 {
                   "code": "E08.319",
+                  "rank": 64343,
+                  "desc": "Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy without macular edema",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -420,6 +532,8 @@
                 }
               ],
               "code": "E08.31",
+              "rank": 78662,
+              "desc": "Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E08.31"
@@ -430,12 +544,16 @@
                   "node": [
                     {
                       "code": "E08.3211",
+                      "rank": 77762,
+                      "desc": "Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, right eye",
                       "serviceDate": "10/01/2016",
                       "status": "New",
                       "hrefBeg": "/ws/codetype/icd10cm/E08.3211"
                     }
                   ],
                   "code": "E08.321",
+                  "rank": 77762,
+                  "desc": "Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2016",
@@ -444,18 +562,24 @@
                 }
               ],
               "code": "E08.32",
+              "rank": 77762,
+              "desc": "Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E08.32"
             }
           ],
           "code": "E08.3",
+          "rank": 78662,
+          "desc": "Diabetes mellitus due to underlying condition with ophthalmic complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E08.3"
         }
       ],
       "code": "E08",
+      "rank": 155112,
+      "desc": "Diabetes mellitus due to underlying condition",
       "serviceDate": "10/01/2015",
       "status": "New",
       "hrefBeg": "/ws/codetype/icd10cm/E08"
@@ -466,6 +590,8 @@
           "node": [
             {
               "code": "E10.65",
+              "rank": 146119,
+              "desc": "Type 1 diabetes mellitus with hyperglycemia",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -474,6 +600,8 @@
             },
             {
               "code": "E10.64",
+              "rank": 64623,
+              "desc": "Type 1 diabetes mellitus with hypoglycemia",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E10.64"
@@ -482,6 +610,8 @@
               "node": [
                 {
                   "code": "E10.621",
+                  "rank": 63660,
+                  "desc": "Type 1 diabetes mellitus with foot ulcer",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -490,6 +620,8 @@
                 },
                 {
                   "code": "E10.622",
+                  "rank": 63660,
+                  "desc": "Type 1 diabetes mellitus with other skin ulcer",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -498,6 +630,8 @@
                 },
                 {
                   "code": "E10.620",
+                  "rank": 63293,
+                  "desc": "Type 1 diabetes mellitus with diabetic dermatitis",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -506,6 +640,8 @@
                 }
               ],
               "code": "E10.62",
+              "rank": 63660,
+              "desc": "Type 1 diabetes mellitus with skin complications",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E10.62"
@@ -514,6 +650,8 @@
               "node": [
                 {
                   "code": "E10.630",
+                  "rank": 63585,
+                  "desc": "Type 1 diabetes mellitus with periodontal disease",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -522,12 +660,16 @@
                 }
               ],
               "code": "E10.63",
+              "rank": 63585,
+              "desc": "Type 1 diabetes mellitus with oral complications",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E10.63"
             }
           ],
           "code": "E10.6",
+          "rank": 146119,
+          "desc": "Type 1 diabetes mellitus with other specified complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E10.6"
@@ -536,6 +678,8 @@
           "node": [
             {
               "code": "E10.10",
+              "rank": 121890,
+              "desc": "Type 1 diabetes mellitus with ketoacidosis without coma",
               "hcc": "HCC17",
               "hccDesc": "Diabetes with Acute Complications",
               "serviceDate": "10/01/2015",
@@ -544,6 +688,8 @@
             }
           ],
           "code": "E10.1",
+          "rank": 121890,
+          "desc": "Type 1 diabetes mellitus with ketoacidosis",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E10.1"
@@ -552,6 +698,8 @@
           "node": [
             {
               "code": "E10.29",
+              "rank": 107947,
+              "desc": "Type 1 diabetes mellitus with other diabetic kidney complication",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -560,6 +708,8 @@
             },
             {
               "code": "E10.22",
+              "rank": 105919,
+              "desc": "Type 1 diabetes mellitus with diabetic chronic kidney disease",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -568,6 +718,8 @@
             },
             {
               "code": "E10.21",
+              "rank": 63660,
+              "desc": "Type 1 diabetes mellitus with diabetic nephropathy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -576,6 +728,8 @@
             }
           ],
           "code": "E10.2",
+          "rank": 107947,
+          "desc": "Type 1 diabetes mellitus with kidney complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E10.2"
@@ -588,12 +742,16 @@
                   "node": [
                     {
                       "code": "E10.3513",
+                      "rank": 69999,
+                      "desc": "Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, bilateral",
                       "serviceDate": "10/01/2016",
                       "status": "New",
                       "hrefBeg": "/ws/codetype/icd10cm/E10.3513"
                     }
                   ],
                   "code": "E10.351",
+                  "rank": 69999,
+                  "desc": "Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema",
                   "hcc": "HCC18,HCC18",
                   "hccDesc": "Diabetes with Chronic Complications,Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2016",
@@ -602,12 +760,16 @@
                 }
               ],
               "code": "E10.35",
+              "rank": 69999,
+              "desc": "Type 1 diabetes mellitus with proliferative diabetic retinopathy",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E10.35"
             },
             {
               "code": "E10.36",
+              "rank": 63875,
+              "desc": "Type 1 diabetes mellitus with diabetic cataract",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -616,6 +778,8 @@
             }
           ],
           "code": "E10.3",
+          "rank": 69999,
+          "desc": "Type 1 diabetes mellitus with ophthalmic complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E10.3"
@@ -624,6 +788,8 @@
           "node": [
             {
               "code": "E10.41",
+              "rank": 63682,
+              "desc": "Type 1 diabetes mellitus with diabetic mononeuropathy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -632,6 +798,8 @@
             },
             {
               "code": "E10.44",
+              "rank": 63608,
+              "desc": "Type 1 diabetes mellitus with diabetic amyotrophy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -640,12 +808,16 @@
             }
           ],
           "code": "E10.4",
+          "rank": 63682,
+          "desc": "Type 1 diabetes mellitus with neurological complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E10.4"
         },
         {
           "code": "E10.8",
+          "rank": 63682,
+          "desc": "Type 1 diabetes mellitus with unspecified complications",
           "hcc": "HCC18",
           "hccDesc": "Diabetes with Chronic Complications",
           "serviceDate": "10/01/2015",
@@ -654,6 +826,8 @@
         },
         {
           "code": "E10.9",
+          "rank": 63682,
+          "desc": "Type 1 diabetes mellitus without complications",
           "hcc": "HCC19",
           "hccDesc": "Diabetes without Complication",
           "serviceDate": "10/01/2015",
@@ -662,6 +836,8 @@
         }
       ],
       "code": "E10",
+      "rank": 146119,
+      "desc": "Type 1 diabetes mellitus",
       "serviceDate": "10/01/2015",
       "status": "New",
       "hrefBeg": "/ws/codetype/icd10cm/E10"
@@ -672,6 +848,8 @@
           "node": [
             {
               "code": "E11.65",
+              "rank": 145926,
+              "desc": "Type 2 diabetes mellitus with hyperglycemia",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -680,6 +858,8 @@
             },
             {
               "code": "E11.69",
+              "rank": 121848,
+              "desc": "Type 2 diabetes mellitus with other specified complication",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -688,6 +868,8 @@
             },
             {
               "code": "E11.64",
+              "rank": 64601,
+              "desc": "Type 2 diabetes mellitus with hypoglycemia",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E11.64"
@@ -696,6 +878,8 @@
               "node": [
                 {
                   "code": "E11.621",
+                  "rank": 63773,
+                  "desc": "Type 2 diabetes mellitus with foot ulcer",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -704,6 +888,8 @@
                 },
                 {
                   "code": "E11.622",
+                  "rank": 63773,
+                  "desc": "Type 2 diabetes mellitus with other skin ulcer",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -712,6 +898,8 @@
                 },
                 {
                   "code": "E11.620",
+                  "rank": 63339,
+                  "desc": "Type 2 diabetes mellitus with diabetic dermatitis",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -720,6 +908,8 @@
                 }
               ],
               "code": "E11.62",
+              "rank": 63773,
+              "desc": "Type 2 diabetes mellitus with skin complications",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E11.62"
@@ -728,6 +918,8 @@
               "node": [
                 {
                   "code": "E11.630",
+                  "rank": 63704,
+                  "desc": "Type 2 diabetes mellitus with periodontal disease",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -736,12 +928,16 @@
                 }
               ],
               "code": "E11.63",
+              "rank": 63704,
+              "desc": "Type 2 diabetes mellitus with oral complications",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E11.63"
             }
           ],
           "code": "E11.6",
+          "rank": 145926,
+          "desc": "Type 2 diabetes mellitus with other specified complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E11.6"
@@ -750,6 +946,8 @@
           "node": [
             {
               "code": "E11.21",
+              "rank": 125696,
+              "desc": "Type 2 diabetes mellitus with diabetic nephropathy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -758,6 +956,8 @@
             }
           ],
           "code": "E11.2",
+          "rank": 125696,
+          "desc": "Type 2 diabetes mellitus with kidney complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E11.2"
@@ -770,12 +970,16 @@
                   "node": [
                     {
                       "code": "E11.3513",
+                      "rank": 69977,
+                      "desc": "Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema, bilateral",
                       "serviceDate": "10/01/2016",
                       "status": "New",
                       "hrefBeg": "/ws/codetype/icd10cm/E11.3513"
                     }
                   ],
                   "code": "E11.351",
+                  "rank": 69977,
+                  "desc": "Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema",
                   "hcc": "HCC18,HCC18",
                   "hccDesc": "Diabetes with Chronic Complications,Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2016",
@@ -784,12 +988,16 @@
                 }
               ],
               "code": "E11.35",
+              "rank": 69977,
+              "desc": "Type 2 diabetes mellitus with proliferative diabetic retinopathy",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E11.35"
             },
             {
               "code": "E11.36",
+              "rank": 63773,
+              "desc": "Type 2 diabetes mellitus with diabetic cataract",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -798,18 +1006,24 @@
             }
           ],
           "code": "E11.3",
+          "rank": 69977,
+          "desc": "Type 2 diabetes mellitus with ophthalmic complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E11.3"
         },
         {
           "code": "E11.0",
+          "rank": 64299,
+          "desc": "Type 2 diabetes mellitus with hyperosmolarity",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E11.0"
         },
         {
           "code": "E11.9",
+          "rank": 63881,
+          "desc": "Type 2 diabetes mellitus without complications",
           "hcc": "HCC19",
           "hccDesc": "Diabetes without Complication",
           "serviceDate": "10/01/2015",
@@ -820,6 +1034,8 @@
           "node": [
             {
               "code": "E11.44",
+              "rank": 63651,
+              "desc": "Type 2 diabetes mellitus with diabetic amyotrophy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -828,6 +1044,8 @@
             },
             {
               "code": "E11.41",
+              "rank": 63578,
+              "desc": "Type 2 diabetes mellitus with diabetic mononeuropathy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -836,6 +1054,8 @@
             },
             {
               "code": "E11.42",
+              "rank": 63144,
+              "desc": "Type 2 diabetes mellitus with diabetic polyneuropathy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -844,12 +1064,16 @@
             }
           ],
           "code": "E11.4",
+          "rank": 63651,
+          "desc": "Type 2 diabetes mellitus with neurological complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E11.4"
         },
         {
           "code": "E11.8",
+          "rank": 63578,
+          "desc": "Type 2 diabetes mellitus with unspecified complications",
           "hcc": "HCC18",
           "hccDesc": "Diabetes with Chronic Complications",
           "serviceDate": "10/01/2015",
@@ -858,6 +1082,8 @@
         }
       ],
       "code": "E11",
+      "rank": 145926,
+      "desc": "Type 2 diabetes mellitus",
       "serviceDate": "10/01/2015",
       "status": "New",
       "hrefBeg": "/ws/codetype/icd10cm/E11"
@@ -868,6 +1094,8 @@
           "node": [
             {
               "code": "E09.10",
+              "rank": 117800,
+              "desc": "Drug or chemical induced diabetes mellitus with ketoacidosis without coma",
               "hcc": "HCC17",
               "hccDesc": "Diabetes with Acute Complications",
               "serviceDate": "10/01/2015",
@@ -876,6 +1104,8 @@
             }
           ],
           "code": "E09.1",
+          "rank": 117800,
+          "desc": "Drug or chemical induced diabetes mellitus with ketoacidosis",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E09.1"
@@ -884,6 +1114,8 @@
           "node": [
             {
               "code": "E09.01",
+              "rank": 103839,
+              "desc": "Drug or chemical induced diabetes mellitus with hyperosmolarity with coma",
               "hcc": "HCC17",
               "hccDesc": "Diabetes with Acute Complications",
               "serviceDate": "10/01/2015",
@@ -892,6 +1124,8 @@
             }
           ],
           "code": "E09.0",
+          "rank": 103839,
+          "desc": "Drug or chemical induced diabetes mellitus with hyperosmolarity",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E09.0"
@@ -900,6 +1134,8 @@
           "node": [
             {
               "code": "E09.21",
+              "rank": 91149,
+              "desc": "Drug or chemical induced diabetes mellitus with diabetic nephropathy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -908,6 +1144,8 @@
             },
             {
               "code": "E09.22",
+              "rank": 79296,
+              "desc": "Drug or chemical induced diabetes mellitus with diabetic chronic kidney disease",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -916,6 +1154,8 @@
             },
             {
               "code": "E09.29",
+              "rank": 78933,
+              "desc": "Drug or chemical induced diabetes mellitus with other diabetic kidney complication",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -924,12 +1164,16 @@
             }
           ],
           "code": "E09.2",
+          "rank": 91149,
+          "desc": "Drug or chemical induced diabetes mellitus with kidney complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E09.2"
         }
       ],
       "code": "E09",
+      "rank": 117800,
+      "desc": "Drug or chemical induced diabetes mellitus",
       "serviceDate": "10/01/2015",
       "status": "New",
       "hrefBeg": "/ws/codetype/icd10cm/E09"
@@ -940,6 +1184,8 @@
           "node": [
             {
               "code": "E13.10",
+              "rank": 92927,
+              "desc": "Other specified diabetes mellitus with ketoacidosis without coma",
               "hcc": "HCC17",
               "hccDesc": "Diabetes with Acute Complications",
               "serviceDate": "10/01/2015",
@@ -948,6 +1194,8 @@
             },
             {
               "code": "E13.11",
+              "rank": 68858,
+              "desc": "Other specified diabetes mellitus with ketoacidosis with coma",
               "hcc": "HCC17",
               "hccDesc": "Diabetes with Acute Complications",
               "serviceDate": "10/01/2015",
@@ -956,6 +1204,8 @@
             }
           ],
           "code": "E13.1",
+          "rank": 92927,
+          "desc": "Other specified diabetes mellitus with ketoacidosis",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E13.1"
@@ -964,6 +1214,8 @@
           "node": [
             {
               "code": "E13.36",
+              "rank": 90862,
+              "desc": "Other specified diabetes mellitus with diabetic cataract",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -972,6 +1224,8 @@
             }
           ],
           "code": "E13.3",
+          "rank": 90862,
+          "desc": "Other specified diabetes mellitus with ophthalmic complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E13.3"
@@ -980,6 +1234,8 @@
           "node": [
             {
               "code": "E13.65",
+              "rank": 73747,
+              "desc": "Other specified diabetes mellitus with hyperglycemia",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -988,12 +1244,16 @@
             },
             {
               "code": "E13.61",
+              "rank": 64697,
+              "desc": "Other specified diabetes mellitus with diabetic arthropathy",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E13.61"
             },
             {
               "code": "E13.64",
+              "rank": 64601,
+              "desc": "Other specified diabetes mellitus with hypoglycemia",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E13.64"
@@ -1002,6 +1262,8 @@
               "node": [
                 {
                   "code": "E13.621",
+                  "rank": 63632,
+                  "desc": "Other specified diabetes mellitus with foot ulcer",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -1010,6 +1272,8 @@
                 },
                 {
                   "code": "E13.620",
+                  "rank": 63114,
+                  "desc": "Other specified diabetes mellitus with diabetic dermatitis",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -1018,6 +1282,8 @@
                 }
               ],
               "code": "E13.62",
+              "rank": 63632,
+              "desc": "Other specified diabetes mellitus with skin complications",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E13.62"
@@ -1026,6 +1292,8 @@
               "node": [
                 {
                   "code": "E13.630",
+                  "rank": 63563,
+                  "desc": "Other specified diabetes mellitus with periodontal disease",
                   "hcc": "HCC18",
                   "hccDesc": "Diabetes with Chronic Complications",
                   "serviceDate": "10/01/2015",
@@ -1034,12 +1302,16 @@
                 }
               ],
               "code": "E13.63",
+              "rank": 63563,
+              "desc": "Other specified diabetes mellitus with oral complications",
               "serviceDate": "10/01/2015",
               "status": "New",
               "hrefBeg": "/ws/codetype/icd10cm/E13.63"
             }
           ],
           "code": "E13.6",
+          "rank": 73747,
+          "desc": "Other specified diabetes mellitus with other specified complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E13.6"
@@ -1048,6 +1320,8 @@
           "node": [
             {
               "code": "E13.01",
+              "rank": 70980,
+              "desc": "Other specified diabetes mellitus with hyperosmolarity with coma",
               "hcc": "HCC17",
               "hccDesc": "Diabetes with Acute Complications",
               "serviceDate": "10/01/2015",
@@ -1056,6 +1330,8 @@
             }
           ],
           "code": "E13.0",
+          "rank": 70980,
+          "desc": "Other specified diabetes mellitus with hyperosmolarity",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E13.0"
@@ -1064,6 +1340,8 @@
           "node": [
             {
               "code": "E13.21",
+              "rank": 63632,
+              "desc": "Other specified diabetes mellitus with diabetic nephropathy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -1072,6 +1350,8 @@
             }
           ],
           "code": "E13.2",
+          "rank": 63632,
+          "desc": "Other specified diabetes mellitus with kidney complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E13.2"
@@ -1080,6 +1360,8 @@
           "node": [
             {
               "code": "E13.59",
+              "rank": 63632,
+              "desc": "Other specified diabetes mellitus with other circulatory complications",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -1088,6 +1370,8 @@
             }
           ],
           "code": "E13.5",
+          "rank": 63632,
+          "desc": "Other specified diabetes mellitus with circulatory complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E13.5"
@@ -1096,6 +1380,8 @@
           "node": [
             {
               "code": "E13.44",
+              "rank": 63578,
+              "desc": "Other specified diabetes mellitus with diabetic amyotrophy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -1104,6 +1390,8 @@
             },
             {
               "code": "E13.41",
+              "rank": 63437,
+              "desc": "Other specified diabetes mellitus with diabetic mononeuropathy",
               "hcc": "HCC18",
               "hccDesc": "Diabetes with Chronic Complications",
               "serviceDate": "10/01/2015",
@@ -1112,12 +1400,16 @@
             }
           ],
           "code": "E13.4",
+          "rank": 63578,
+          "desc": "Other specified diabetes mellitus with neurological complications",
           "serviceDate": "10/01/2015",
           "status": "New",
           "hrefBeg": "/ws/codetype/icd10cm/E13.4"
         },
         {
           "code": "E13.9",
+          "rank": 63578,
+          "desc": "Other specified diabetes mellitus without complications",
           "hcc": "HCC19",
           "hccDesc": "Diabetes without Complication",
           "serviceDate": "10/01/2015",
@@ -1126,6 +1418,8 @@
         },
         {
           "code": "E13.8",
+          "rank": 63437,
+          "desc": "Other specified diabetes mellitus with unspecified complications",
           "hcc": "HCC18",
           "hccDesc": "Diabetes with Chronic Complications",
           "serviceDate": "10/01/2015",
@@ -1134,6 +1428,8 @@
         }
       ],
       "code": "E13",
+      "rank": 102308,
+      "desc": "Other specified diabetes mellitus",
       "serviceDate": "10/01/2015",
       "status": "New",
       "hrefBeg": "/ws/codetype/icd10cm/E13"
@@ -1142,6 +1438,8 @@
       "node": [
         {
           "code": "E23.2",
+          "rank": 95749,
+          "desc": "Diabetes insipidus",
           "hcc": "HCC23",
           "hccDesc": "Other Significant Endocrine and Metabolic Disorders",
           "serviceDate": "10/01/2015",
@@ -1150,6 +1448,8 @@
         }
       ],
       "code": "E23",
+      "rank": 95749,
+      "desc": "Hypofunction and other disorders of the pituitary gland",
       "serviceDate": "10/01/2015",
       "status": "New",
       "hrefBeg": "/ws/codetype/icd10cm/E23"
