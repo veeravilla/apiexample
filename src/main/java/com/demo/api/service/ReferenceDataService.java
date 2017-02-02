@@ -9,6 +9,7 @@ import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -69,9 +70,9 @@ public class ReferenceDataService {
 	}
 	
 	@PreAuthorize("hasRole('ROLE_CUSTOMER')")
-	@RequestMapping(value = "medication/alerts", method = RequestMethod.POST,produces = {MediaType.APPLICATION_JSON_VALUE, MediaType.APPLICATION_XML_VALUE})
-	public ResponseEntity<String> getAllAlerts(String alerts) throws Exception {
-			String response = IOUtils.toString(ReferenceDataService.class.getResourceAsStream(alerts+".json"));
+	@RequestMapping(value = "medication/alerts", method = RequestMethod.POST,consumes = {"*/*"}, produces = {MediaType.APPLICATION_JSON_VALUE, MediaType.APPLICATION_XML_VALUE})
+	public ResponseEntity<String> getAllAlerts(@RequestBody String alerts) throws Exception {
+			String response = IOUtils.toString(ReferenceDataService.class.getResourceAsStream("alerts.json"));
 			return new ResponseEntity<String>(response,HttpStatus.OK);
 	}
 	
@@ -85,6 +86,19 @@ public class ReferenceDataService {
 			return new ResponseEntity<String>(response,HttpStatus.OK);
 		}catch(Exception ex){
 			String response = IOUtils.toString(ReferenceDataService.class.getResourceAsStream("heart.json"));
+			return new ResponseEntity<String>(response,HttpStatus.OK);
+		}
+	}
+	
+	@RequestMapping(value = "icd/{icdcode}", method = RequestMethod.GET,produces = {MediaType.APPLICATION_JSON_VALUE, MediaType.APPLICATION_XML_VALUE})
+	@PreAuthorize("hasRole('ROLE_CUSTOMER')")
+	public ResponseEntity<String> icd( @PathVariable("icdcode") String icdcode,
+			@RequestParam("data") Optional<String>  data) throws Exception{
+		try{
+			String response = IOUtils.toString(ReferenceDataService.class.getResourceAsStream(icdcode+".xml"));
+			return new ResponseEntity<String>(response,HttpStatus.OK);
+		}catch(Exception ex){
+			String response = IOUtils.toString(ReferenceDataService.class.getResourceAsStream("icd.xml"));
 			return new ResponseEntity<String>(response,HttpStatus.OK);
 		}
 	}

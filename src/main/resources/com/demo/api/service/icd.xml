@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<code-properties>
+	<desc-full>Hypertensive heart disease without heart failure</desc-full>
+	  <hcc>HCC85</hcc>
+      <hcc-desc>Congestive Heart Failure</hcc-desc>
+	<serviceDate>10/01/2015</serviceDate>
+	<status>New</status>
+</code-properties>
